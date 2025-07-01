@@ -1290,3 +1290,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [01Jul2025 22:59:09.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Set the time to 1000]
 [01Jul2025 22:59:30.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=126, z=-7} BlockPos{x=-11, y=125, z=0}
 [01Jul2025 23:00:50.090] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=126, z=-7} BlockPos{x=-11, y=125, z=0}
+[01Jul2025 23:03:58.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOT4P3__V[/127.88.206.134:42293] logged in with entity id 3419 at (-7.4355659169439035, 125.0, 7.660642782811265)
+[01Jul2025 23:03:58.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V joined the game
+[01Jul2025 23:03:58.855] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to JOT4P3__V...
+[01Jul2025 23:03:58.855] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[01Jul2025 23:03:58.856] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to JOT4P3__V
+[01Jul2025 23:05:06.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Stone Age]
+[01Jul2025 23:06:46.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [Stone Age]
+[01Jul2025 23:06:54.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zehkro lost connection: Disconnected
+[01Jul2025 23:06:54.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro left the game
+[01Jul2025 23:07:35.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nariflow lost connection: Disconnected
+[01Jul2025 23:07:35.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow left the game
+[01Jul2025 23:08:03.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOT4P3__V lost connection: Disconnected
+[01Jul2025 23:08:03.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V left the game
+[01Jul2025 23:08:06.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Jul2025 23:08:06.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Jul2025 23:08:06.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Jul2025 23:08:06.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Jul2025 23:08:06.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Jul2025 23:08:07.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Jul2025 23:08:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Jul2025 23:08:07.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Jul2025 23:08:07.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Jul2025 23:08:07.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Jul2025 23:08:07.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Jul2025 23:08:07.977] [Server thread/INFO] [Framework/]: Unloading server configs...
+[01Jul2025 23:08:07.977] [Server thread/INFO] [Framework/]: Finished unloading server configs
