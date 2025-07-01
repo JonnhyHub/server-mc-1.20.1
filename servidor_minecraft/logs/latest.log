@@ -1262,3 +1262,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [01Jul2025 22:51:41.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=130, z=-3} BlockPos{x=-13, y=126, z=3}
 [01Jul2025 22:51:45.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=130, z=-3} BlockPos{x=-7, y=126, z=-3}
 [01Jul2025 22:51:58.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=127, z=6} BlockPos{x=-16, y=127, z=6}
+[01Jul2025 22:52:42.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=127, z=-9} BlockPos{x=-11, y=125, z=0}
+[01Jul2025 22:52:42.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=127, z=-9} BlockPos{x=-11, y=125, z=0}
+[01Jul2025 22:53:04.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=127, z=-9} BlockPos{x=-11, y=125, z=0}
+[01Jul2025 22:53:04.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=127, z=-9} BlockPos{x=-11, y=125, z=0}
+[01Jul2025 22:53:04.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=127, z=-9} BlockPos{x=-11, y=125, z=0}
+[01Jul2025 22:54:00.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOT4P3__V lost connection: Disconnected
+[01Jul2025 22:54:00.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V left the game
+[01Jul2025 22:54:09.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOT4P3__V[/127.88.206.134:47555] logged in with entity id 1620 at (-16.5399532147875, 127.0, -3.5068779029828896)
+[01Jul2025 22:54:09.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V joined the game
+[01Jul2025 22:54:09.112] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to JOT4P3__V...
+[01Jul2025 22:54:09.112] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[01Jul2025 22:54:09.113] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to JOT4P3__V
+[01Jul2025 22:54:53.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=127, z=-3} BlockPos{x=-10, y=124, z=-5}
+[01Jul2025 22:54:53.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=127, z=-3} BlockPos{x=-10, y=124, z=-4}
+[01Jul2025 22:54:59.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V was slain by Zehkro
+[01Jul2025 22:54:59.060] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for JOT4P3__V at X: -10.699999988079071, Y: 125.30496025421073, Z: -6.174809008774021
+[01Jul2025 22:54:59.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has completed the challenge [This is Bonfires]
+[01Jul2025 22:55:01.244] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[01Jul2025 22:55:10.638] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player JOT4P3__V picking up: PermanentItemEntity['Extradimensional Vessel'/1731, l='ServerLevel[world]', x=-10.70, y=126.80, z=-6.17]
+[01Jul2025 22:55:10.638] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/1731, l='ServerLevel[world]', x=-10.70, y=126.80, z=-6.17]
+[01Jul2025 22:55:24.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=130, z=-3} BlockPos{x=-11, y=125, z=0}
+[01Jul2025 22:55:28.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-14, y=126, z=-1}
+[01Jul2025 22:55:32.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-14, y=126, z=-1}
+[01Jul2025 22:58:48.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOT4P3__V lost connection: Disconnected
+[01Jul2025 22:58:48.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V left the game
+[01Jul2025 22:59:09.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Set the time to 1000]
+[01Jul2025 22:59:30.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=126, z=-7} BlockPos{x=-11, y=125, z=0}
+[01Jul2025 23:00:50.090] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=126, z=-7} BlockPos{x=-11, y=125, z=0}
