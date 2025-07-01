@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "b59f566f-cfaa-3219-b2bd-ef738ea1a271",
+    "name": "Zehkro",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
