@@ -6757,3 +6757,180 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 05:37:45.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported kiuu19 to Zehkro]
 [18Jul2025 05:40:07.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jul2025 05:40:07.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 05:41:43.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to kiuu19]
+[18Jul2025 05:42:24.836] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player kiuu19 picking up: PermanentItemEntity['Extradimensional Vessel'/54876, l='ServerLevel[world]', x=-842.83, y=56.50, z=-1712.67]
+[18Jul2025 05:42:24.837] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/54876, l='ServerLevel[world]', x=-842.83, y=56.50, z=-1712.67]
+[18Jul2025 05:42:35.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported kiuu19 to Zehkro]
+[18Jul2025 05:42:39.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiuu19 was turned into KFC by Fire Dragon
+[18Jul2025 05:42:39.073] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for kiuu19 at X: -840.5503848681088, Y: 81.0, Z: -1674.300000011921
+[18Jul2025 05:42:44.665] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:43:01.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro was doomed to fall
+[18Jul2025 05:43:01.197] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Zehkro at X: -797.9004017031116, Y: 64.0, Z: -1649.6794148452843
+[18Jul2025 05:43:01.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has completed the challenge [This is Bonfires]
+[18Jul2025 05:43:02.639] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:43:27.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Set own game mode to Creative Mode]
+[18Jul2025 05:43:38.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to -796.500000, 60.500000, -1647.500000]
+[18Jul2025 05:43:42.374] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Zehkro picking up: PermanentItemEntity['Extradimensional Vessel'/56899, l='ServerLevel[world]', x=-797.90, y=65.50, z=-1649.68]
+[18Jul2025 05:43:42.374] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/56899, l='ServerLevel[world]', x=-797.90, y=65.50, z=-1649.68]
+[18Jul2025 05:44:44.436] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:44:44.685] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:44:44.945] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:44:45.192] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:44:45.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:44:45.690] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:44:45.940] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:44:46.184] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:44:46.438] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:44:46.700] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:44:46.939] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:44:47.192] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:45:07.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 05:45:07.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 05:45:38.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported kiuu19 to Zehkro]
+[18Jul2025 05:45:46.135] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player kiuu19 picking up: PermanentItemEntity['Extradimensional Vessel'/56958, l='ServerLevel[world]', x=-840.55, y=82.50, z=-1674.30]
+[18Jul2025 05:45:46.136] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/56958, l='ServerLevel[world]', x=-840.55, y=82.50, z=-1674.30]
+[18Jul2025 05:45:48.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Set own game mode to Survival Mode]
+[18Jul2025 05:46:06.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported kiuu19 to Zehkro]
+[18Jul2025 05:46:19.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiuu19 was turned into KFC by Fire Dragon
+[18Jul2025 05:46:19.624] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for kiuu19 at X: -742.9116793150079, Y: 62.48222436092541, Z: -1629.3451886463572
+[18Jul2025 05:46:25.733] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:46:31.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported kiuu19 to Zehkro]
+[18Jul2025 05:46:34.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro was incinerated by Fire Dragon
+[18Jul2025 05:46:34.021] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Zehkro at X: -719.1156472028397, Y: 57.515324222409, Z: -1634.1672309695045
+[18Jul2025 05:46:34.090] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player kiuu19 picking up: PermanentItemEntity['Extradimensional Vessel'/58873, l='ServerLevel[world]', x=-719.12, y=59.02, z=-1634.17]
+[18Jul2025 05:46:34.091] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/58873, l='ServerLevel[world]', x=-719.12, y=59.02, z=-1634.17]
+[18Jul2025 05:46:35.765] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:46:36.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiuu19 was turned into KFC by Fire Dragon
+[18Jul2025 05:46:36.738] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for kiuu19 at X: -716.520610639608, Y: 53.767522969118325, Z: -1627.3444698509043
+[18Jul2025 05:46:45.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Set own game mode to Creative Mode]
+[18Jul2025 05:46:51.707] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:47:01.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to -717.500000, 58.500000, -1633.500000]
+[18Jul2025 05:47:09.144] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Zehkro picking up: PermanentItemEntity['Extradimensional Vessel'/59421, l='ServerLevel[world]', x=-716.52, y=55.27, z=-1627.34]
+[18Jul2025 05:47:09.144] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/59421, l='ServerLevel[world]', x=-716.52, y=55.27, z=-1627.34]
+[18Jul2025 05:47:27.632] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:47:27.891] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:47:28.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:47:28.384] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:47:28.640] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:47:28.885] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:47:29.136] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:47:29.387] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:47:29.635] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:47:29.884] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:47:30.136] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:47:30.385] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:47:33.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Dragonslayer]
+[18Jul2025 05:47:39.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported kiuu19 to Zehkro]
+[18Jul2025 05:47:44.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Set own game mode to Survival Mode]
+[18Jul2025 05:47:56.435] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player kiuu19 picking up: PermanentItemEntity['Extradimensional Vessel'/59428, l='ServerLevel[world]', x=-742.91, y=63.98, z=-1629.35]
+[18Jul2025 05:47:56.435] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/59428, l='ServerLevel[world]', x=-742.91, y=63.98, z=-1629.35]
+[18Jul2025 05:49:00.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported kiuu19 to Zehkro]
+[18Jul2025 05:50:07.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 05:50:07.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 05:50:24.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiuu19 was incinerated by Fire Dragon
+[18Jul2025 05:50:24.274] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for kiuu19 at X: -832.4836910089889, Y: 82.0, Z: -1700.300000011921
+[18Jul2025 05:50:28.454] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:50:39.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported kiuu19 to Zehkro]
+[18Jul2025 05:51:34.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:34.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:34.779] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:34.779] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:35.026] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:35.026] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:35.276] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:35.276] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:35.530] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:35.530] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:35.776] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:35.777] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:36.028] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:36.028] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:36.279] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:36.280] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:36.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:36.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:36.781] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:36.782] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:37.029] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:37.029] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:37.280] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:51:37.280] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:01.387] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player kiuu19 picking up: PermanentItemEntity['Extradimensional Vessel'/61042, l='ServerLevel[world]', x=-832.48, y=83.50, z=-1700.30]
+[18Jul2025 05:52:01.387] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/61042, l='ServerLevel[world]', x=-832.48, y=83.50, z=-1700.30]
+[18Jul2025 05:52:11.428] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:11.429] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:11.682] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:11.682] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:11.932] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:11.932] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:12.180] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:12.181] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:12.432] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:12.432] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:12.678] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:12.679] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:12.929] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:12.929] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:13.180] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:13.180] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:13.432] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:13.432] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:13.679] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:13.679] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:13.929] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:13.929] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:14.176] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:14.177] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 05:52:43.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiuu19 was burnt to a crisp whilst fighting Fire Dragon
+[18Jul2025 05:52:43.387] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for kiuu19 at X: -907.750125195328, Y: 85.66239439928059, Z: -1627.8151652665947
+[18Jul2025 05:52:44.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported kiuu19 to Zehkro]
+[18Jul2025 05:52:46.016] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:52:57.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported kiuu19 to Zehkro]
+[18Jul2025 05:53:03.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Set the time to 1000]
+[18Jul2025 05:53:49.586] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player kiuu19 picking up: PermanentItemEntity['Extradimensional Vessel'/61985, l='ServerLevel[world]', x=-907.75, y=87.16, z=-1627.82]
+[18Jul2025 05:53:49.587] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/61985, l='ServerLevel[world]', x=-907.75, y=87.16, z=-1627.82]
+[18Jul2025 05:54:13.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to kiuu19]
+[18Jul2025 05:55:07.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 05:55:07.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 05:57:07.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Set the time to 1000]
+[18Jul2025 05:57:39.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Made kiuu19 a server operator]
+[18Jul2025 05:57:46.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [A Terrifying Entrance]
+[18Jul2025 05:58:33.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to kiuu19]
+[18Jul2025 06:00:07.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 06:00:07.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 06:00:35.629] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:35.629] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:35.883] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:35.883] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:36.128] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:36.128] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:36.380] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:36.380] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:36.627] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:36.627] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:36.882] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:36.882] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:37.130] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:37.130] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:37.378] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:37.378] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:37.632] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:37.632] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:37.880] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:37.880] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:38.129] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:38.129] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:38.391] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:38.392] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:00:59.779] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:01:00.032] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:01:00.278] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:01:00.530] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:01:00.781] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:01:01.032] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:01:01.280] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:01:01.535] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:01:01.787] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:01:02.030] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:01:02.280] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:01:02.536] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null

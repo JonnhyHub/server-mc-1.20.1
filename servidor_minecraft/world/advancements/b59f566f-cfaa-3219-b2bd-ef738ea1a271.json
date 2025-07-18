@@ -100,6 +100,7 @@
       "minecraft:dripstone_caves": "2025-07-18 03:35:54 +0000",
       "minecraft:forest": "2025-07-18 04:19:27 +0000",
       "minecraft:ocean": "2025-07-18 04:47:39 +0000",
+      "minecraft:flower_forest": "2025-07-18 05:41:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-18 03:27:40 +0000",
       "minecraft:plains": "2025-07-18 04:22:54 +0000"
     },
@@ -632,6 +633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 05:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-18 03:33:29 +0000"
@@ -734,6 +741,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-07-18 04:52:52 +0000"
@@ -812,6 +825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 05:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-07-18 04:52:52 +0000"
@@ -833,6 +852,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-07-18 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 05:58:04 +0000"
     },
     "done": true
   },
@@ -878,6 +903,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-07-18 04:52:52 +0000"
@@ -890,6 +921,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-07-18 05:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:47:33 +0000"
@@ -899,6 +936,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-07-18 04:02:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-07-18 05:58:04 +0000"
     },
     "done": true
   },
@@ -950,6 +993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 05:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-07-18 04:52:52 +0000"
@@ -995,6 +1044,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-07-18 04:52:52 +0000"
+    },
+    "done": true
+  },
+  "bonfires:recipes/brewing/estus_shard": {
+    "criteria": {
+      "has_the_recipe": "2025-07-18 05:43:01 +0000"
     },
     "done": true
   },
@@ -1070,6 +1125,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-07-18 05:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-18 03:47:33 +0000"
@@ -1109,6 +1170,12 @@
   "treasure2:recipes/decorations/gravestone2_stone": {
     "criteria": {
       "has_tool": "2025-07-18 05:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-18 05:58:04 +0000"
     },
     "done": true
   },
@@ -1268,6 +1335,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-18 05:13:51 +0000"
@@ -1307,6 +1380,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-07-18 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
     },
     "done": true
   },
@@ -1394,6 +1473,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-18 05:47:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-07-18 04:39:04 +0000"
@@ -1460,6 +1545,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-07-18 05:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-18 04:02:42 +0000"
@@ -1490,6 +1581,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-18 03:27:49 +0000"
@@ -1505,6 +1602,12 @@
   "davespotioneering:recipes/tools/blue_umbrella": {
     "criteria": {
       "has_shield": "2025-07-18 03:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 05:58:04 +0000"
     },
     "done": true
   },
@@ -1604,6 +1707,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:47:33 +0000"
@@ -1673,6 +1782,12 @@
   "treasure2:recipes/tools/ruby_key": {
     "criteria": {
       "has_tool": "2025-07-18 05:13:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
     },
     "done": true
   },
@@ -1832,9 +1947,21 @@
     },
     "done": true
   },
+  "bonfires:bonfires/root": {
+    "criteria": {
+      "died": "2025-07-18 05:43:01 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-07-18 03:29:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
     },
     "done": true
   },
@@ -1901,6 +2028,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-18 04:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 05:58:04 +0000"
     },
     "done": true
   },
@@ -2012,6 +2145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 05:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-18 04:02:05 +0000"
@@ -2036,15 +2175,33 @@
     },
     "done": false
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-07-18 03:30:13 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-07-18 05:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-18 03:13:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
     },
     "done": true
   },
@@ -2069,6 +2226,12 @@
   "reliquary:recipes/misc/uncrafting/ink_sac": {
     "criteria": {
       "has_squid_beak": "2025-07-18 05:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-18 05:58:04 +0000"
     },
     "done": true
   },
@@ -2142,6 +2305,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-07-18 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-07-18 05:57:46 +0000"
     },
     "done": true
   },
@@ -2295,6 +2464,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-07-18 03:32:39 +0000"
@@ -2340,6 +2521,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-07-18 03:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-18 05:42:41 +0000"
     },
     "done": true
   },
@@ -2463,6 +2650,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/decorations/gravestone1_polished_granite": {
     "criteria": {
       "has_tool": "2025-07-18 05:13:00 +0000"
@@ -2563,6 +2756,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-18 04:07:04 +0000",
       "cooked_mutton": "2025-07-18 03:39:05 +0000",
+      "cooked_beef": "2025-07-18 05:50:45 +0000",
       "cooked_cod": "2025-07-18 04:35:05 +0000",
       "pumpkin_pie": "2025-07-18 03:45:16 +0000",
       "rotten_flesh": "2025-07-18 03:21:18 +0000",
@@ -2580,6 +2774,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-18 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
     },
     "done": true
   },
@@ -2607,9 +2807,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
+    },
+    "done": true
+  },
   "davespotioneering:recipes/tools/green_umbrella": {
     "criteria": {
       "has_shield": "2025-07-18 03:48:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-07-18 05:47:58 +0000"
     },
     "done": true
   },
@@ -2688,6 +2900,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-07-18 04:39:00 +0000"
+    },
+    "done": true
+  },
+  "bonfires:recipes/tools/homeward_bone": {
+    "criteria": {
+      "has_the_recipe": "2025-07-18 05:43:01 +0000"
     },
     "done": true
   },
