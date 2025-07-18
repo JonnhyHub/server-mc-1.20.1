@@ -1270,3 +1270,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 04:49:21.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [18Jul2025 04:49:21.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TIME SET DAY<--[HERE]
 [18Jul2025 04:49:28.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[18Jul2025 04:50:28.262] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-53, z=10}
+[18Jul2025 04:55:04.447] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Jul2025 04:55:04.448] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Jul2025 04:55:08.934] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
+[18Jul2025 04:55:19.355] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
+[18Jul2025 04:55:23.765] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=6, z=307}
+[18Jul2025 04:59:06.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kiuu19 moved too quickly! 1.6079040496953212,0.0,-10.071973720776782
+[18Jul2025 04:59:06.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6437ms or 128 ticks behind

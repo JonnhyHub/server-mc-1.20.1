@@ -6618,3 +6618,62 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 04:49:21.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [18Jul2025 04:49:21.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TIME SET DAY<--[HERE]
 [18Jul2025 04:49:28.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[18Jul2025 04:49:54.896] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=62, z=48}
+[18Jul2025 04:49:54.982] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=62, z=48}
+[18Jul2025 04:49:58.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 04:49:58.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 04:50:09.258] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Jul2025 04:50:21.058] [Worker-Main-1/DEBUG] [com.bobmowzie.mowziesmobs.MowziesMobs/]: Monastery at BlockPos{x=-280, y=0, z=1000}
+[18Jul2025 04:50:28.262] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-53, z=10}
+[18Jul2025 04:52:36.996] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Jul2025 04:54:46.265] [Worker-Main-89/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=62, z=48}
+[18Jul2025 04:54:46.268] [Worker-Main-89/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1081, y=50, z=11}
+[18Jul2025 04:54:46.572] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=62, z=48}
+[18Jul2025 04:54:46.575] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1081, y=50, z=11}
+[18Jul2025 04:54:46.577] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1090, y=43, z=28}
+[18Jul2025 04:54:46.577] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1097, y=43, z=34}
+[18Jul2025 04:54:46.578] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1110, y=43, z=34}
+[18Jul2025 04:54:46.578] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1097, y=43, z=41}
+[18Jul2025 04:54:46.645] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1081, y=50, z=11}
+[18Jul2025 04:54:46.646] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1110, y=43, z=34}
+[18Jul2025 04:54:46.646] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1117, y=43, z=34}
+[18Jul2025 04:54:53.888] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1081, y=50, z=11}
+[18Jul2025 04:54:53.889] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1110, y=43, z=34}
+[18Jul2025 04:54:53.890] [Worker-Main-45/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1117, y=43, z=34}
+[18Jul2025 04:54:53.908] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=62, z=48}
+[18Jul2025 04:54:53.913] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1101, y=57, z=16}
+[18Jul2025 04:54:53.913] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1081, y=50, z=11}
+[18Jul2025 04:54:53.916] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1090, y=43, z=28}
+[18Jul2025 04:54:53.916] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1097, y=43, z=34}
+[18Jul2025 04:54:53.916] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1110, y=43, z=34}
+[18Jul2025 04:54:53.916] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1103, y=43, z=27}
+[18Jul2025 04:54:53.956] [Worker-Main-89/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=62, z=48}
+[18Jul2025 04:54:53.958] [Worker-Main-89/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1081, y=50, z=11}
+[18Jul2025 04:54:58.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 04:54:58.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 04:55:04.447] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Jul2025 04:55:04.448] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[18Jul2025 04:55:06.378] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=62, z=48}
+[18Jul2025 04:55:06.380] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1081, y=50, z=11}
+[18Jul2025 04:55:06.423] [Worker-Main-89/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1104, y=62, z=48}
+[18Jul2025 04:55:06.426] [Worker-Main-89/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1081, y=50, z=11}
+[18Jul2025 04:55:08.934] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
+[18Jul2025 04:55:19.355] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
+[18Jul2025 04:55:23.765] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=6, z=307}
+[18Jul2025 04:57:19.250] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-412, y=132, z=924}) doesn't have enough leaves around top most log
+[18Jul2025 04:57:20.298] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-411, y=132, z=924}) doesn't have enough leaves around top most log
+[18Jul2025 04:57:21.348] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-412, y=132, z=925}) doesn't have enough leaves around top most log
+[18Jul2025 04:57:22.405] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-411, y=132, z=925}) doesn't have enough leaves around top most log
+[18Jul2025 04:57:23.500] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-410, y=132, z=924}) doesn't have enough leaves around top most log
+[18Jul2025 04:57:39.249] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-409, y=132, z=924}) doesn't have enough leaves around top most log
+[18Jul2025 04:57:40.348] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-410, y=132, z=925}) doesn't have enough leaves around top most log
+[18Jul2025 04:57:41.600] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-410, y=130, z=924}) doesn't have enough leaves around top most log
+[18Jul2025 04:57:43.051] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-411, y=130, z=925}) doesn't have enough leaves around top most log
+[18Jul2025 04:57:44.297] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-411, y=130, z=924}) doesn't have enough leaves around top most log
+[18Jul2025 04:57:54.048] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-412, y=130, z=924}) doesn't have enough leaves around top most log
+[18Jul2025 04:57:55.203] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-412, y=130, z=925}) doesn't have enough leaves around top most log
+[18Jul2025 04:57:57.657] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-409, y=130, z=924}) doesn't have enough leaves around top most log
+[18Jul2025 04:57:58.697] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-410, y=130, z=925}) doesn't have enough leaves around top most log
+[18Jul2025 04:58:00.650] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-409, y=130, z=925}) doesn't have enough leaves around top most log
+[18Jul2025 04:59:06.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kiuu19 moved too quickly! 1.6079040496953212,0.0,-10.071973720776782
+[18Jul2025 04:59:06.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6437ms or 128 ticks behind
