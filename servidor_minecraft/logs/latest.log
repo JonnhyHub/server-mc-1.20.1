@@ -1232,3 +1232,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 03:20:43.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiuu19 has made the advancement [Monster Hunter]
 [18Jul2025 03:20:43.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiuu19 has made the advancement [Acquire Ash]
 [18Jul2025 03:22:29.227] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-57, z=9}
+[18Jul2025 03:37:42.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Sweet Dreams]
+[18Jul2025 03:37:44.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiuu19 has made the advancement [Sweet Dreams]
