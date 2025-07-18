@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-07-18 05:20:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-07-18 03:21:31 +0000"
@@ -479,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-07-18 05:29:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-07-18 04:44:14 +0000"
@@ -702,6 +714,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/building_blocks/witherwood_planks": {
+    "criteria": {
+      "has_log": "2025-07-18 05:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-18 03:31:15 +0000"
@@ -742,6 +760,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-18 03:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-07-18 05:21:22 +0000"
     },
     "done": true
   },
@@ -952,6 +976,12 @@
   "modulargolems:recipes/combat/diamond_golem_spear": {
     "criteria": {
       "has_diamond": "2025-07-18 04:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-18 05:21:22 +0000"
     },
     "done": true
   },
@@ -1321,6 +1351,12 @@
     },
     "done": true
   },
+  "bonfires:bonfires/root": {
+    "criteria": {
+      "died": "2025-07-18 05:30:01 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-07-18 03:29:29 +0000"
@@ -1378,6 +1414,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-07-18 03:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-07-18 05:28:44 +0000"
     },
     "done": true
   },
@@ -1682,6 +1724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-18 05:20:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-07-18 04:57:26 +0000"
@@ -1814,6 +1862,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/building_blocks/witherwood_wood": {
+    "criteria": {
+      "has_log": "2025-07-18 05:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-18 04:05:21 +0000"
@@ -1822,6 +1876,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-07-18 05:20:48 +0000",
+      "minecraft:sunflower_plains": "2025-07-18 05:20:29 +0000",
       "minecraft:birch_forest": "2025-07-18 03:22:50 +0000",
       "minecraft:bamboo_jungle": "2025-07-18 04:48:24 +0000",
       "minecraft:dark_forest": "2025-07-18 03:01:41 +0000",
@@ -1832,6 +1888,7 @@
       "minecraft:lush_caves": "2025-07-18 03:13:35 +0000",
       "minecraft:jungle": "2025-07-18 04:50:28 +0000",
       "minecraft:ocean": "2025-07-18 04:47:28 +0000",
+      "minecraft:flower_forest": "2025-07-18 05:28:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-18 03:28:43 +0000",
       "minecraft:plains": "2025-07-18 04:24:19 +0000"
     },
@@ -2135,6 +2192,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:48:00 +0000"
+    },
+    "done": true
+  },
+  "bonfires:recipes/tools/homeward_bone": {
+    "criteria": {
+      "has_the_recipe": "2025-07-18 05:30:01 +0000"
     },
     "done": true
   },
