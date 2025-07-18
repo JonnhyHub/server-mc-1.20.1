@@ -95,7 +95,9 @@
       "minecraft:dark_forest": "2025-07-01 21:34:21 +0000",
       "minecraft:river": "2025-07-18 03:23:20 +0000",
       "minecraft:dripstone_caves": "2025-07-18 03:35:54 +0000",
-      "minecraft:old_growth_birch_forest": "2025-07-18 03:27:40 +0000"
+      "minecraft:forest": "2025-07-18 04:19:27 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-18 03:27:40 +0000",
+      "minecraft:plains": "2025-07-18 04:22:54 +0000"
     },
     "done": false
   },
@@ -546,6 +548,12 @@
     },
     "done": true
   },
+  "lategamegolems:recipes/misc/lgg_ai_chip_guard": {
+    "criteria": {
+      "Late Game Golem AI Guard": "2025-07-18 04:14:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-18 04:02:42 +0000"
@@ -738,9 +746,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-18 04:14:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-07-18 03:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-18 04:14:40 +0000"
     },
     "done": true
   },
@@ -978,9 +998,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-18 04:14:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-07-18 03:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-07-18 04:14:40 +0000"
     },
     "done": true
   },
@@ -1059,6 +1091,12 @@
   "davespotioneering:recipes/tools/light_gray_umbrella": {
     "criteria": {
       "has_shield": "2025-07-18 03:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-18 04:14:40 +0000"
     },
     "done": true
   },
@@ -1206,6 +1244,12 @@
     },
     "done": true
   },
+  "lategamegolems:recipes/misc/lgg_ai_chip_follower": {
+    "criteria": {
+      "Late Game Golem AI Follower": "2025-07-18 04:14:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-18 04:01:58 +0000"
@@ -1302,6 +1346,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/mob_charm": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-07-18 04:21:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-07-18 03:28:30 +0000"
@@ -1368,6 +1418,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mob_charm_belt": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-07-18 04:21:41 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
       "has_parent_recipe": "2025-07-18 03:47:33 +0000"
@@ -1380,6 +1436,12 @@
     },
     "done": true
   },
+  "lategamegolems:recipes/misc/lgg_death_process_explode": {
+    "criteria": {
+      "Late Game Golem Death Process Deactivate": "2025-07-18 04:14:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-07-18 03:30:13 +0000"
@@ -1389,6 +1451,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-18 03:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-18 04:14:40 +0000"
     },
     "done": true
   },
@@ -1410,6 +1478,12 @@
     },
     "done": true
   },
+  "lategamegolems:recipes/misc/lgg_teleporter": {
+    "criteria": {
+      "Late Game Golem Teleporter": "2025-07-18 04:14:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-07-18 03:43:02 +0000"
@@ -1425,6 +1499,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-18 04:14:40 +0000"
     },
     "done": true
   },
@@ -1518,6 +1598,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-18 04:21:36 +0000"
+    },
+    "done": true
+  },
   "davespotioneering:recipes/tools/brown_umbrella": {
     "criteria": {
       "has_shield": "2025-07-18 03:48:32 +0000"
@@ -1604,6 +1690,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-18 04:07:04 +0000",
       "cooked_mutton": "2025-07-18 03:39:05 +0000",
       "pumpkin_pie": "2025-07-18 03:45:16 +0000",
       "rotten_flesh": "2025-07-18 03:21:18 +0000",
@@ -1693,6 +1780,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-07-18 03:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-18 04:14:40 +0000"
     },
     "done": true
   },
