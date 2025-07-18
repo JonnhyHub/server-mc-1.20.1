@@ -1297,3 +1297,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 05:30:01.737] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for kiuu19 at X: -842.825650048786, Y: 55.0, Z: -1712.6713607574843
 [18Jul2025 05:30:01.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiuu19 has completed the challenge [This is Bonfires]
 [18Jul2025 05:30:04.315] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:31:41.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kiuu19> xaero-waypoint:gui.xaero-deathpoint:D:-843:55:-1713:0:false:0:Internal-overworld-waypoints
+[18Jul2025 05:35:30.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Set the time to 1000]
+[18Jul2025 05:37:07.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zehkro> xaero-waypoint:DUNGEON RARA:D:-654:69:-1161:5:false:0:Internal-overworld-waypoints
+[18Jul2025 05:37:20.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiuu19 was burnt to a crisp whilst fighting Fire Dragon
+[18Jul2025 05:37:26.053] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:37:45.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported kiuu19 to Zehkro]
