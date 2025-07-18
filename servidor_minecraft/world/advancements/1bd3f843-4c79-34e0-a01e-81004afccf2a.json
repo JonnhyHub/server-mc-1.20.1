@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-18 03:37:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-18 03:08:39 +0000"
@@ -313,6 +319,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-18 03:44:47 +0000",
       "minecraft:zombie": "2025-07-18 03:20:43 +0000"
     },
     "done": false
@@ -796,6 +803,7 @@
       "minecraft:birch_forest": "2025-07-18 03:22:50 +0000",
       "minecraft:dark_forest": "2025-07-18 03:01:41 +0000",
       "minecraft:river": "2025-07-18 03:22:35 +0000",
+      "minecraft:dripstone_caves": "2025-07-18 03:42:13 +0000",
       "minecraft:lush_caves": "2025-07-18 03:13:35 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-18 03:28:43 +0000"
     },

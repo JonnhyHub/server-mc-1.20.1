@@ -94,6 +94,7 @@
       "minecraft:birch_forest": "2025-07-18 03:24:46 +0000",
       "minecraft:dark_forest": "2025-07-01 21:34:21 +0000",
       "minecraft:river": "2025-07-18 03:23:20 +0000",
+      "minecraft:dripstone_caves": "2025-07-18 03:35:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-18 03:27:40 +0000"
     },
     "done": false
@@ -239,6 +240,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-18 03:20:37 +0000",
+      "minecraft:spider": "2025-07-18 03:44:21 +0000",
+      "minecraft:creeper": "2025-07-18 03:42:23 +0000",
       "minecraft:zombie": "2025-07-01 22:48:51 +0000"
     },
     "done": false
@@ -531,6 +534,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-18 03:42:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-07-18 03:30:13 +0000"
@@ -567,15 +576,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-18 03:39:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-07-18 03:28:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-18 03:43:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2025-07-18 03:30:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-18 03:38:26 +0000"
     },
     "done": true
   },
@@ -618,6 +645,18 @@
   "toolbelt:recipes/pouch": {
     "criteria": {
       "has_leather": "2025-07-18 03:30:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-18 03:39:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-18 03:37:42 +0000"
     },
     "done": true
   },
@@ -669,6 +708,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-07-18 03:38:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-07-18 03:30:13 +0000"
@@ -717,6 +762,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-18 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_sword": {
+    "criteria": {
+      "has_the_recipe": "2025-07-18 03:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-07-18 03:22:35 +0000"
@@ -756,6 +813,18 @@
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-07-18 03:29:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-18 03:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-18 03:43:01 +0000"
     },
     "done": true
   },
@@ -831,6 +900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-07-18 03:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-07-18 03:22:35 +0000"
@@ -849,9 +924,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-18 03:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-07-18 03:08:07 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-18 03:42:34 +0000"
     },
     "done": true
   },
@@ -879,6 +966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-18 03:42:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-07-18 03:10:30 +0000"
@@ -887,10 +980,17 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-18 03:39:05 +0000",
       "rotten_flesh": "2025-07-18 03:21:18 +0000",
       "mushroom_stew": "2025-07-18 03:12:01 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-18 03:42:23 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
