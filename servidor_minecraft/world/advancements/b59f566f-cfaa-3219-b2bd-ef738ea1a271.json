@@ -92,6 +92,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-07-18 03:24:46 +0000",
+      "minecraft:beach": "2025-07-18 04:42:23 +0000",
       "minecraft:dark_forest": "2025-07-01 21:34:21 +0000",
       "minecraft:river": "2025-07-18 03:23:20 +0000",
       "minecraft:dripstone_caves": "2025-07-18 03:35:54 +0000",
@@ -632,6 +633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-07-18 04:39:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-18 03:57:08 +0000"
@@ -665,6 +672,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-18 04:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-18 04:38:19 +0000"
     },
     "done": true
   },
@@ -1004,6 +1017,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-07-18 04:38:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-07-18 04:25:46 +0000"
@@ -1025,6 +1044,12 @@
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-07-18 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-18 04:39:04 +0000"
     },
     "done": true
   },
@@ -1055,6 +1080,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-18 03:12:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/thicc_scroll": {
+    "criteria": {
+      "has_items": "2025-07-18 04:38:19 +0000"
     },
     "done": true
   },
@@ -1316,6 +1347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-07-18 04:39:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:47:33 +0000"
@@ -1343,6 +1380,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-18 04:02:42 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_repair_toolkit": {
+    "criteria": {
+      "Late Game Golem Upgrade Package": "2025-07-18 04:38:19 +0000"
     },
     "done": true
   },
@@ -1376,11 +1419,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-07-18 04:39:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-18 04:02:42 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-07-18 04:38:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
@@ -1448,6 +1503,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-07-18 04:39:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:47:33 +0000"
@@ -1472,11 +1533,23 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/lore_fragment": {
+    "criteria": {
+      "has_items": "2025-07-18 04:38:19 +0000"
+    },
+    "done": true
+  },
   "davespotioneering:recipes/tools/white_umbrella": {
     "criteria": {
       "has_shield": "2025-07-18 03:48:32 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/escape_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-07-18 04:38:19 +0000"
+    },
+    "done": false
   },
   "davespotioneering:recipes/tools/purple_umbrella": {
     "criteria": {
@@ -1586,6 +1659,12 @@
     },
     "done": true
   },
+  "lategamegolems:recipes/misc/lgg_upgrade_package": {
+    "criteria": {
+      "Late Game Golem Upgrade Package": "2025-07-18 04:38:19 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-07-18 03:29:21 +0000"
@@ -1595,6 +1674,12 @@
   "davespotioneering:recipes/tools/cyan_umbrella": {
     "criteria": {
       "has_shield": "2025-07-18 03:48:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-07-18 04:39:04 +0000"
     },
     "done": true
   },
@@ -1619,6 +1704,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-18 04:38:19 +0000"
     },
     "done": true
   },
@@ -1760,6 +1851,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/arcane_scrolls": {
+    "criteria": {
+      "has_the_recipe": "2025-07-18 04:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-07-18 03:10:30 +0000"
@@ -1776,6 +1873,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-18 04:07:04 +0000",
       "cooked_mutton": "2025-07-18 03:39:05 +0000",
+      "cooked_cod": "2025-07-18 04:35:05 +0000",
       "pumpkin_pie": "2025-07-18 03:45:16 +0000",
       "rotten_flesh": "2025-07-18 03:21:18 +0000",
       "cooked_chicken": "2025-07-18 03:48:50 +0000",
@@ -1813,6 +1911,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/xp_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-07-18 04:38:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-07-18 04:01:58 +0000"
@@ -1849,11 +1953,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-18 04:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-07-18 03:22:35 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/berserk_charm": {
+    "criteria": {
+      "has_parent_recipe": "2025-07-18 04:38:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
@@ -1866,6 +1982,12 @@
       "in_water": "2025-07-18 03:22:35 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-07-18 04:38:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/piston": {
     "criteria": {

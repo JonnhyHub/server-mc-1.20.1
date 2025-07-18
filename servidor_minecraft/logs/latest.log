@@ -1258,3 +1258,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 04:32:10.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3282ms or 65 ticks behind
 [18Jul2025 04:36:25.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zehkro> xaero-waypoint:BASE:B:-517:68:-333:6:false:0:Internal-overworld-waypoints
 [18Jul2025 04:39:31.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiuu19 has made the advancement [Magery]
+[18Jul2025 04:44:06.889] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Jul2025 04:44:06.891] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Jul2025 04:44:38.998] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-53, z=10}
+[18Jul2025 04:46:39.403] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1001, y=69, z=340} but found not block entity block Block{minecraft:air} at location
+[18Jul2025 04:46:39.403] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1001, y=69, z=340}
+[18Jul2025 04:47:50.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Ice Bucket Challenge]
+[18Jul2025 04:48:33.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Jul2025 04:48:33.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TIME SET DAY<--[HERE]
+[18Jul2025 04:49:06.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kiuu19> WUAJA
+[18Jul2025 04:49:21.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Jul2025 04:49:21.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TIME SET DAY<--[HERE]
+[18Jul2025 04:49:28.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
