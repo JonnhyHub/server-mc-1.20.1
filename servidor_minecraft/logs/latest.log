@@ -1253,3 +1253,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 04:24:45.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-535, y=70, z=-369} BlockPos{x=-535, y=68, z=-370}
 [18Jul2025 04:25:04.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [A Seedy Place]
 [18Jul2025 04:26:44.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [The Parrots and the Bats]
+[18Jul2025 04:29:42.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiuu19 has made the advancement [Rotten to the Core]
+[18Jul2025 04:32:10.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zehkro moved too quickly! -7.139641470191805,-0.1754232959521005,7.301141947190217
+[18Jul2025 04:32:10.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3282ms or 65 ticks behind
+[18Jul2025 04:36:25.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zehkro> xaero-waypoint:BASE:B:-517:68:-333:6:false:0:Internal-overworld-waypoints
+[18Jul2025 04:39:31.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiuu19 has made the advancement [Magery]

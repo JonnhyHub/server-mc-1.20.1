@@ -530,6 +530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-18 04:26:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-18 04:02:42 +0000"
@@ -539,6 +545,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-07-18 03:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-18 04:29:59 +0000"
     },
     "done": true
   },
@@ -692,6 +704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-18 04:25:34 +0000"
+    },
+    "done": true
+  },
   "modulargolems:recipes/combat/roman_guard_shinguard": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:47:33 +0000"
@@ -809,6 +827,12 @@
   "davespotioneering:recipes/brewing/compound_brewing_stand": {
     "criteria": {
       "has_shield": "2025-07-18 03:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-18 04:28:37 +0000"
     },
     "done": true
   },
@@ -980,6 +1004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-18 04:25:46 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
     "criteria": {
       "has_white_wool": "2025-07-18 03:29:21 +0000"
@@ -1001,6 +1031,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-07-18 04:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-18 04:25:46 +0000"
     },
     "done": true
   },
@@ -1043,6 +1079,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-18 03:29:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-07-18 04:28:46 +0000"
     },
     "done": true
   },
@@ -1124,9 +1166,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-07-18 04:28:46 +0000"
+    },
+    "done": true
+  },
   "lategamegolems:recipes/misc/lgg_spear_iron": {
     "criteria": {
       "Late Game Golem Iron Spear": "2025-07-18 03:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-18 04:26:44 +0000"
     },
     "done": true
   },
@@ -1157,6 +1211,12 @@
   "modulargolems:recipes/combat/iron_golem_sword": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 03:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-18 04:25:07 +0000"
     },
     "done": true
   },
@@ -1364,6 +1424,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-07-18 04:26:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-18 04:01:58 +0000"
@@ -1490,6 +1556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-18 04:27:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-07-18 03:22:35 +0000"
@@ -1592,6 +1664,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-18 04:25:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-07-18 03:30:13 +0000"
@@ -1625,6 +1703,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-07-18 04:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-18 04:25:07 +0000"
     },
     "done": true
   },
@@ -1798,6 +1882,12 @@
   "davespotioneering:recipes/tools/yellow_umbrella": {
     "criteria": {
       "has_shield": "2025-07-18 03:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-18 04:25:34 +0000"
     },
     "done": true
   },
