@@ -6934,3 +6934,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jul2025 06:01:02.030] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
 [18Jul2025 06:01:02.280] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
 [18Jul2025 06:01:02.536] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[18Jul2025 06:03:05.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiuu19 was slain by Ghost
+[18Jul2025 06:03:05.525] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for kiuu19 at X: -510.37501654357743, Y: 64.7531999805212, Z: -317.30000001192093
+[18Jul2025 06:03:07.088] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 06:03:15.032] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player kiuu19 picking up: PermanentItemEntity['Extradimensional Vessel'/66804, l='ServerLevel[world]', x=-510.38, y=66.25, z=-317.30]
+[18Jul2025 06:03:15.033] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/66804, l='ServerLevel[world]', x=-510.38, y=66.25, z=-317.30]
+[18Jul2025 06:05:07.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 06:05:07.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 06:07:06.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kiuu19 lost connection: Disconnected
+[18Jul2025 06:07:06.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kiuu19 left the game
+[18Jul2025 06:07:11.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zehkro lost connection: Disconnected
+[18Jul2025 06:07:11.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro left the game
+[18Jul2025 06:07:20.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Jul2025 06:07:20.217] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[18Jul2025 06:07:20.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jul2025 06:07:20.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jul2025 06:07:20.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Jul2025 06:07:20.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Jul2025 06:07:21.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Jul2025 06:07:21.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Jul2025 06:07:21.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 06:07:21.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 06:07:21.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Jul2025 06:07:21.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Jul2025 06:07:21.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Jul2025 06:07:21.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Jul2025 06:07:21.619] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Jul2025 06:07:21.619] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[18Jul2025 06:07:21.619] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[18Jul2025 06:07:21.620] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
