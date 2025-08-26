@@ -6158,3 +6158,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Aug2025 03:22:42.156] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to JOT4P3__V
 [26Aug2025 03:22:42.369] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: false
 [26Aug2025 03:22:54.062] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
+[26Aug2025 03:26:36.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Aug2025 03:26:36.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Aug2025 03:26:46.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOT4P3__V lost connection: Disconnected
+[26Aug2025 03:26:46.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V left the game
+[26Aug2025 03:31:36.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Aug2025 03:31:36.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1220,3 +1220,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Aug2025 03:22:42.154] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [26Aug2025 03:22:42.156] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to JOT4P3__V
 [26Aug2025 03:22:42.369] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: false
+[26Aug2025 03:26:46.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOT4P3__V lost connection: Disconnected
+[26Aug2025 03:26:46.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V left the game
