@@ -2999,9 +2999,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-08-26 04:31:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_chestplate": {
     "criteria": {
       "has_item": "2025-08-26 04:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-26 04:35:39 +0000"
     },
     "done": true
   },
@@ -3029,9 +3041,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-08-26 04:31:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-26 04:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-08-26 04:35:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_boots": {
     "criteria": {
       "has_item": "2025-08-26 04:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-08-26 04:35:21 +0000"
     },
     "done": true
   },
