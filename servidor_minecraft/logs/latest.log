@@ -1233,3 +1233,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Aug2025 03:44:41.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=128, z=-1}
 [26Aug2025 03:44:43.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=129, z=-1}
 [26Aug2025 03:44:43.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=129, z=-2}
+[26Aug2025 03:48:28.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cnnyy lost connection: Disconnected
+[26Aug2025 03:48:28.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy left the game
+[26Aug2025 03:48:42.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOT4P3__V[/127.88.206.134:40369] logged in with entity id 1294 at (11.376320364259342, 94.0, -23.69999998807907)
+[26Aug2025 03:48:42.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V joined the game
+[26Aug2025 03:48:42.982] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to JOT4P3__V...
+[26Aug2025 03:48:42.982] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[26Aug2025 03:48:42.983] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to JOT4P3__V
+[26Aug2025 03:49:16.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V was shot by Skeleton
+[26Aug2025 03:49:16.461] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for JOT4P3__V at X: 9.697645120069573, Y: 97.0, Z: -22.483362113334888
+[26Aug2025 03:49:18.027] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[26Aug2025 03:49:55.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=132, z=1}
+[26Aug2025 03:50:14.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[26Aug2025 03:50:36.252] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player JOT4P3__V picking up: PermanentItemEntity['Extradimensional Vessel'/1457, l='ServerLevel[world]', x=9.70, y=98.50, z=-22.48]
+[26Aug2025 03:50:36.253] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/1457, l='ServerLevel[world]', x=9.70, y=98.50, z=-22.48]
+[26Aug2025 03:51:19.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cnnyy[/127.129.162.187:37599] logged in with entity id 1852 at (-1.8310801040323166, 129.0, -2.7794892484316924)
+[26Aug2025 03:51:19.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy joined the game
+[26Aug2025 03:51:19.530] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to cnnyy...
+[26Aug2025 03:51:19.530] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[26Aug2025 03:51:19.531] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to cnnyy
+[26Aug2025 03:51:39.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=107, z=-19} BlockPos{x=-14, y=113, z=-12}
+[26Aug2025 03:51:42.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zehkro[/127.243.12.173:57079] logged in with entity id 1891 at (-513.6252542375397, 68.0, -337.4393007264612)
+[26Aug2025 03:51:42.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro joined the game
+[26Aug2025 03:51:42.380] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Zehkro...
+[26Aug2025 03:51:42.381] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[26Aug2025 03:51:42.381] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zehkro
+[26Aug2025 03:52:32.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported JOT4P3__V to Zehkro]
+[26Aug2025 03:52:41.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported cnnyy to Zehkro]
+[26Aug2025 03:53:04.525] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[26Aug2025 03:53:04.525] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdc5b407$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[26Aug2025 03:53:21.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement [Suit Up]
+[26Aug2025 03:53:52.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [Acquire Ash]
+[26Aug2025 03:56:00.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement [Stone Age]
