@@ -1357,3 +1357,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [28Aug2025 04:58:02.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [A Fool's Folly]
 [28Aug2025 04:58:02.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [Barrel Booty]
 [28Aug2025 05:01:41.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow has made the advancement [Stone Age]
+[28Aug2025 05:03:28.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported nariflow to Zehkro]
+[28Aug2025 05:06:21.363] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=23, y=69, z=1726} but found not block entity block Block{minecraft:air} at location
+[28Aug2025 05:06:21.363] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=23, y=69, z=1726}
+[28Aug2025 05:06:25.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow has made the advancement [Amateur Archaeologist]
+[28Aug2025 05:15:35.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=854, y=104, z=939} but found not block entity block Block{minecraft:polished_andesite} at location
+[28Aug2025 05:15:35.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:polished_andesite} but failed at location BlockPos{x=854, y=104, z=939}
+[28Aug2025 05:16:10.854] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-53, z=10}
+[28Aug2025 05:19:36.247] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=199, y=-59, z=127}
+[28Aug2025 05:19:36.248] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=199, y=-59, z=128}
+[28Aug2025 05:19:36.554] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[28Aug2025 05:19:36.555] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[28Aug2025 05:19:36.555] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=193, y=-59, z=127}
+[28Aug2025 05:19:36.555] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=193, y=-59, z=135}
+[28Aug2025 05:19:40.214] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[28Aug2025 05:22:14.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOT4P3__V lost connection: Disconnected
+[28Aug2025 05:22:14.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V left the game
+[28Aug2025 05:22:17.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cnnyy lost connection: Disconnected
+[28Aug2025 05:22:17.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy left the game
+[28Aug2025 05:22:45.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow has made the advancement [Sweet Dreams]
