@@ -1303,3 +1303,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [28Aug2025 03:23:59.519] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdd0009d$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
 [28Aug2025 03:31:11.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement [Not Today, Thank You]
 [28Aug2025 03:32:10.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement [Isn't It Iron Pick]
+[28Aug2025 03:35:40.910] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Aug2025 03:35:40.911] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Aug2025 03:47:02.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [Who You Gonna Call?]
+[28Aug2025 03:51:10.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [Getting an Upgrade]
+[28Aug2025 03:53:19.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Aug2025 03:53:19.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule keepinventory true<--[HERE]
+[28Aug2025 03:53:45.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Aug2025 03:53:45.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule keepInventory true<--[HERE]
+[28Aug2025 03:54:01.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gamerule keepInventory is now set to: true
+[28Aug2025 03:58:48.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [Not Today, Thank You]
+[28Aug2025 04:00:37.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement ['X' Marks the Spot]
+[28Aug2025 04:00:38.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement ['X' Marks the Spot]
+[28Aug2025 04:08:51.300] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=88, y=-56, z=10}
+[28Aug2025 04:22:02.526] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/86720, l='ServerLevel[world]', x=-952.17, y=66.13, z=1584.37]
+[28Aug2025 04:22:02.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/86721, l='ServerLevel[world]', x=-953.13, y=65.62, z=1585.00]
+[28Aug2025 04:22:02.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/86725, l='ServerLevel[world]', x=-951.84, y=69.52, z=1584.15]
+[28Aug2025 04:22:02.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/86726, l='ServerLevel[world]', x=-953.20, y=68.76, z=1584.09]
+[28Aug2025 04:22:02.528] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/86727, l='ServerLevel[world]', x=-954.56, y=68.25, z=1584.13]
+[28Aug2025 04:22:03.948] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nariflow[/127.96.243.87:40465] logged in with entity id 86971 at (-55.905588318927364, 128.0, -14.878844269525672)
+[28Aug2025 04:22:03.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow joined the game
+[28Aug2025 04:22:04.017] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to nariflow...
+[28Aug2025 04:22:04.017] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Aug2025 04:22:04.018] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to nariflow
+[28Aug2025 04:23:16.228] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zehkro[/127.212.24.107:41159] logged in with entity id 87408 at (-554.5638174914251, 29.0, -282.2821967476604)
+[28Aug2025 04:23:16.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro joined the game
+[28Aug2025 04:23:16.298] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Zehkro...
+[28Aug2025 04:23:16.298] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Aug2025 04:23:16.299] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zehkro
+[28Aug2025 04:23:51.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported nariflow to Zehkro]
+[28Aug2025 04:25:04.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow has made the advancement [Suit Up]
+[28Aug2025 04:31:00.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zehkro moved too quickly! -7.775402890062026,1.252203340253729,6.390799218305119
+[28Aug2025 04:31:00.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cnnyy moved too quickly! 2.4987217341125643,-0.5431952417457211,9.708430480312245
+[28Aug2025 04:31:00.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3160ms or 63 ticks behind
