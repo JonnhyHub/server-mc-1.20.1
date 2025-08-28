@@ -1336,3 +1336,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [28Aug2025 04:31:00.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zehkro moved too quickly! -7.775402890062026,1.252203340253729,6.390799218305119
 [28Aug2025 04:31:00.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cnnyy moved too quickly! 2.4987217341125643,-0.5431952417457211,9.708430480312245
 [28Aug2025 04:31:00.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3160ms or 63 ticks behind
+[28Aug2025 04:36:49.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [Isn't It Iron Pick]
+[28Aug2025 04:39:47.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow has made the advancement [Acquire Ash]
+[28Aug2025 04:40:53.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow has made the advancement [Acquire Hardware]
+[28Aug2025 04:43:43.171] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-53, z=10}
+[28Aug2025 04:44:57.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Tunnel Treasures]
+[28Aug2025 04:45:15.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement [Disme A Dozen]
+[28Aug2025 04:45:49.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [Disme A Dozen]
+[28Aug2025 04:46:03.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement [Tools of the Trade]
+[28Aug2025 04:46:30.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow has made the advancement [Monster Hunter]
+[28Aug2025 04:47:34.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [Tools of the Trade]
+[28Aug2025 04:48:18.311] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-182, y=47, z=1651} but found not block entity block Block{minecraft:water}[level=0] at location
+[28Aug2025 04:48:18.311] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-182, y=47, z=1651}
+[28Aug2025 04:48:59.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow has made the advancement [Isn't It Iron Pick]
+[28Aug2025 04:52:12.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/122152, l='ServerLevel[world]', x=-354.38, y=66.00, z=1528.93] died, message: 'Villager was slain by Zombie'
