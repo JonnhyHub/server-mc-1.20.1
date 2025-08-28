@@ -1829,6 +1829,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
+    "criteria": {
+      "has_items": "2025-08-28 04:58:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-08-28 04:19:34 +0000"
@@ -1919,8 +1925,15 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-08-28 04:58:06 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-08-28 04:58:02 +0000",
       "opened_chest": "2025-08-28 04:00:37 +0000"
     },
     "done": false
@@ -1952,6 +1965,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-28 03:51:20 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-08-28 04:58:02 +0000"
     },
     "done": true
   },
@@ -1994,6 +2013,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-08-28 03:51:10 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-08-28 04:58:02 +0000"
     },
     "done": true
   },

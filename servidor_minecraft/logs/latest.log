@@ -1350,3 +1350,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [28Aug2025 04:48:18.311] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-182, y=47, z=1651}
 [28Aug2025 04:48:59.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow has made the advancement [Isn't It Iron Pick]
 [28Aug2025 04:52:12.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/122152, l='ServerLevel[world]', x=-354.38, y=66.00, z=1528.93] died, message: 'Villager was slain by Zombie'
+[28Aug2025 04:53:50.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has reached the goal [Quaint Scribe]
+[28Aug2025 04:56:35.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement [Barrel Booty]
+[28Aug2025 04:56:44.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement [Into Fire]
+[28Aug2025 04:57:47.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement [A Fool's Folly]
+[28Aug2025 04:58:02.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [A Fool's Folly]
+[28Aug2025 04:58:02.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [Barrel Booty]
+[28Aug2025 05:01:41.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow has made the advancement [Stone Age]

@@ -866,3 +866,6 @@
 2025-08-28 04:51:02,025 [Worker-Main-1] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.412, zOffset=0.15, rotation=0.0], lockItem=null]]
 2025-08-28 04:51:02,026 [Worker-Main-1] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.MilkCrateBlockEntity@28f15b6f @ BlockPos{x=-383, y=64, z=1735}
 2025-08-28 04:51:02,053 [Worker-Main-1] INFO treasure2 | SimpleSurfaceChestFeatureGenerator.java:87 | CHEATER! COMMON chest at coords: -383 64 1735
+2025-08-28 05:01:14,564 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=EAST, xOffset=0.72, yOffset=0.18, zOffset=0.5, rotation=90.0], lockItem=null]]
+2025-08-28 05:01:14,564 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.GoldSkullChestBlockEntity@516b7c37 @ BlockPos{x=-77, y=78, z=1430}
+2025-08-28 05:01:14,621 [Server thread] INFO treasure2 | PitChestFeatureGenerator.java:130 | CHEATER! GOLD_SKULL chest at coords: -77 104 1430
