@@ -7303,3 +7303,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [28Aug2025 05:31:58.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [A Brand New Golem]
 [28Aug2025 05:33:30.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Aug2025 05:33:30.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 05:35:26.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nariflow lost connection: Disconnected
+[28Aug2025 05:35:26.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow left the game
+[28Aug2025 05:35:26.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zehkro lost connection: Disconnected
+[28Aug2025 05:35:26.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro left the game
+[28Aug2025 05:35:39.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Aug2025 05:35:39.915] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[28Aug2025 05:35:39.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Aug2025 05:35:39.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Aug2025 05:35:39.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Aug2025 05:35:40.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Aug2025 05:35:40.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Aug2025 05:35:40.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Aug2025 05:35:40.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Aug2025 05:35:40.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Aug2025 05:35:40.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Aug2025 05:35:40.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Aug2025 05:35:40.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Aug2025 05:35:40.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Aug2025 05:35:41.223] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Aug2025 05:35:41.223] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[28Aug2025 05:35:41.223] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[28Aug2025 05:35:41.224] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
