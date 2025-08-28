@@ -3179,9 +3179,87 @@
     },
     "done": true
   },
+  "modulargolems:recipes/misc/rider_wand": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-08-28 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:golems/apply": {
+    "criteria": {
+      "0": "2025-08-28 05:31:33 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:golems/start": {
+    "criteria": {
+      "0": "2025-08-28 05:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-28 05:19:52 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/light_gray_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/green_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/command_wand": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/humanoid_golem_arms_from_metal_golem_template_stonecutting": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/infinimeal": {
     "criteria": {
       "has_the_recipe": "2025-08-28 04:45:38 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/humanoid_golem_legs_from_metal_golem_template_stonecutting": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:golems/craft": {
+    "criteria": {
+      "0": "2025-08-28 05:31:58 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/combat/rudimentary_gauntlet": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-28 05:19:18 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/orange_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
     },
     "done": true
   },
@@ -3191,9 +3269,99 @@
     },
     "done": true
   },
+  "modulargolems:recipes/misc/dog_golem_legs_from_metal_golem_template_stonecutting": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-08-28 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/gray_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-28 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/metal_golem_template": {
+    "criteria": {
+      "has_the_recipe": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/cyan_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-28 05:19:51 +0000"
+    },
+    "done": true
+  },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-08-28 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/light_blue_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/summon_wand": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-28 05:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-28 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-08-28 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/metal_golem_legs_from_metal_golem_template_stonecutting": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-08-28 05:23:40 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/metal_golem/replace_right_arm": {
+    "criteria": {
+      "has_metal_golem_body": "2025-08-28 05:28:12 +0000"
     },
     "done": true
   },
@@ -3203,9 +3371,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-08-28 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/lime_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/target_filter_uuid": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/materials/earth_heart": {
     "criteria": {
       "has_items": "2025-08-28 04:45:38 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/brown_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/craft_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-08-28 05:20:20 +0000"
     },
     "done": true
   },
@@ -3215,9 +3419,33 @@
     },
     "done": true
   },
+  "modulargolems:recipes/misc/metal_golem_body_from_metal_golem_template_stonecutting": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-28 05:19:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-08-28 04:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-08-28 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/metal_golem/replace_left_arm": {
+    "criteria": {
+      "has_metal_golem_body": "2025-08-28 05:28:12 +0000"
     },
     "done": true
   },
@@ -3227,9 +3455,33 @@
     },
     "done": true
   },
+  "modulargolems:recipes/misc/target_filter_friendly": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/bone": {
     "criteria": {
       "has_rib_bone": "2025-08-28 04:45:46 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/blue_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/red_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-28 05:19:18 +0000"
     },
     "done": true
   },
@@ -3251,15 +3503,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-08-28 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/retrieval_wand": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_cart": "2025-08-28 04:44:57 +0000"
     },
     "done": false
   },
+  "modulargolems:recipes/misc/dog_golem_body_from_metal_golem_template_stonecutting": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-28 05:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-28 05:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-08-28 04:41:28 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/target_filter_type": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/metal_golem/replace_body": {
+    "criteria": {
+      "has_metal_golem_body": "2025-08-28 05:28:12 +0000"
     },
     "done": true
   },
@@ -3269,9 +3563,51 @@
     },
     "done": true
   },
+  "modulargolems:recipes/misc/patrol_path_recorder": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/white_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-08-28 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/target_filter_default": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/mob_charm_fragments/skeleton": {
     "criteria": {
       "has_rib_bone": "2025-08-28 04:45:46 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/omnipotent_wand_command": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-28 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/magenta_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
     },
     "done": true
   },
@@ -3281,9 +3617,93 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-28 05:31:05 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/purple_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-08-28 05:23:40 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/metal_golem/assemble_holder": {
+    "criteria": {
+      "has_metal_golem_body": "2025-08-28 05:28:12 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/target_filter_name": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-08-28 04:45:47 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/squad_wand": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/pink_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:golems/root": {
+    "criteria": {
+      "0": "2025-08-28 05:23:40 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/black_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/metal_golem/replace_legs": {
+    "criteria": {
+      "has_metal_golem_body": "2025-08-28 05:28:12 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/metal_golem_arm_from_metal_golem_template_stonecutting": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-08-28 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-08-28 05:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-28 05:31:05 +0000"
     },
     "done": true
   },
@@ -3293,9 +3713,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-08-28 05:19:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-08-28 04:41:03 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/humanoid_golem_body_from_metal_golem_template_stonecutting": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/yellow_config_card": {
+    "criteria": {
+      "has_metal_golem_template": "2025-08-28 05:26:50 +0000"
     },
     "done": true
   },
