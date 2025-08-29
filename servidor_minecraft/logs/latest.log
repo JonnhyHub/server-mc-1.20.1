@@ -1259,3 +1259,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Aug2025 19:21:23.064] [Worker-Main-68/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [29Aug2025 19:22:56.496] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
 [29Aug2025 19:25:17.069] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 1 ms
+[29Aug2025 19:32:12.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [A Terrible Fortress]
+[29Aug2025 19:33:27.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Into Fire]
+[29Aug2025 19:34:49.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Hot Stuff]
+[29Aug2025 19:37:47.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to -72.500000, 62.500000, -27.500000]
