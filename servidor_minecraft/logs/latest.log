@@ -1232,3 +1232,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Aug2025 03:19:42.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cnnyy> -500
 [29Aug2025 03:37:39.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement [A Terrifying Entrance]
 [29Aug2025 03:37:52.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [A Terrifying Entrance]
+[29Aug2025 03:50:25.130] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zehkro[/127.212.24.107:46217] logged in with entity id 66986 at (-514.8461083496654, 68.0, -343.9055388754307)
+[29Aug2025 03:50:25.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro joined the game
+[29Aug2025 03:50:25.194] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Zehkro...
+[29Aug2025 03:50:25.194] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[29Aug2025 03:50:25.194] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zehkro
+[29Aug2025 03:50:27.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[29Aug2025 03:50:45.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nariflow[/127.96.243.87:55319] logged in with entity id 67643 at (-524.5415516514958, 68.0, -336.66302638994597)
+[29Aug2025 03:50:45.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow joined the game
+[29Aug2025 03:50:45.591] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to nariflow...
+[29Aug2025 03:50:45.591] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[29Aug2025 03:50:45.592] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to nariflow
+[29Aug2025 03:51:07.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported cnnyy to Zehkro]
+[29Aug2025 03:51:14.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported JOT4P3__V to cnnyy]

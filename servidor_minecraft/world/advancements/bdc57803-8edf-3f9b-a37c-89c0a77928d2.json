@@ -450,6 +450,7 @@
       "cooked_porkchop": "2025-08-26 04:31:35 +0000",
       "chicken": "2025-08-26 03:59:35 +0000",
       "cooked_beef": "2025-08-28 03:25:42 +0000",
+      "baked_potato": "2025-08-29 03:38:32 +0000",
       "bread": "2025-08-26 04:19:01 +0000",
       "melon_slice": "2025-08-28 03:51:58 +0000",
       "cooked_chicken": "2025-08-26 04:01:41 +0000"
@@ -2449,6 +2450,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-29 03:28:04 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-08-29 03:37:39 +0000"
     },
     "done": true
   },
