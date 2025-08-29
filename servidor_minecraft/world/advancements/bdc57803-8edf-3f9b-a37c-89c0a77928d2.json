@@ -91,6 +91,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-08-29 05:05:03 +0000",
       "minecraft:bamboo_jungle": "2025-08-28 03:44:42 +0000",
       "minecraft:wooded_badlands": "2025-08-28 05:07:02 +0000",
       "minecraft:badlands": "2025-08-29 03:23:22 +0000",
@@ -820,9 +821,10 @@
   },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-08-26 04:08:33 +0000"
+      "has_parent_recipe": "2025-08-26 04:08:33 +0000",
+      "has_items": "2025-08-29 05:01:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/shears": {
     "criteria": {
@@ -1729,6 +1731,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-26 05:01:04 +0000",
       "minecraft:spider": "2025-08-28 03:56:57 +0000",
+      "minecraft:enderman": "2025-08-29 05:03:47 +0000",
       "minecraft:zombie": "2025-08-28 03:54:31 +0000",
       "minecraft:drowned": "2025-08-29 04:49:34 +0000"
     },
@@ -2533,15 +2536,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/stick": {
     "criteria": {
       "has_witch_hat": "2025-08-29 04:56:50 +0000"
     },
     "done": true
   },
+  "modulargolems:recipes/combat/diamond_golem_sword": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/gunpowder_witch_hat": {
     "criteria": {
       "has_witch_hat": "2025-08-29 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
     },
     "done": true
   },
@@ -2554,6 +2581,66 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-08-29 04:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/barbaric_vanguard_shinguard": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_spear_diamond": {
+    "criteria": {
+      "Late Game Golem Diamond Spear": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_mace_diamond": {
+    "criteria": {
+      "Late Game Golem Diamond Mace": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/wind_spirit_shinguard": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-29 05:02:46 +0000"
     },
     "done": true
   },
@@ -2575,15 +2662,75 @@
     },
     "done": true
   },
+  "bonfires:recipes/brewing/estus_shard": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
+    "criteria": {
+      "has_items": "2025-08-29 05:03:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-08-29 04:46:08 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/barbaric_vanguard_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-29 04:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_axe_diamond": {
+    "criteria": {
+      "Late Game Golem Diamond Axe": "2025-08-29 05:01:55 +0000"
     },
     "done": true
   },
@@ -2599,9 +2746,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/diamond_golem_spear": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-08-29 04:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_sword_diamond": {
+    "criteria": {
+      "Late Game Golem Diamond Sword": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_laser": {
+    "criteria": {
+      "Late Game Golem Laser": "2025-08-29 05:01:55 +0000"
     },
     "done": true
   },
@@ -2611,15 +2806,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-08-29 05:03:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-29 05:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/redstone": {
     "criteria": {
       "has_witch_hat": "2025-08-29 04:56:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-29 05:02:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-08-29 04:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/wind_spirit_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/barbaric_vanguard_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
     },
     "done": true
   },
@@ -2635,6 +2914,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-29 05:04:40 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/diamond_golem_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-08-29 04:57:03 +0000"
@@ -2644,6 +2941,18 @@
   "reliquary:recipes/misc/uncrafting/glowstone_dust": {
     "criteria": {
       "has_witch_hat": "2025-08-29 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
     },
     "done": true
   },
@@ -2659,9 +2968,45 @@
     },
     "done": true
   },
+  "modulargolems:recipes/combat/wind_spirit_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-08-29 04:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/super_magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-08-29 05:01:55 +0000"
+    },
+    "done": false
+  },
+  "bonfires:recipes/tools/homeward_bone": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-29 05:03:48 +0000"
     },
     "done": true
   },

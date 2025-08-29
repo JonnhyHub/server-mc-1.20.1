@@ -1283,3 +1283,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Aug2025 05:00:48.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOT4P3__V: Teleported JOT4P3__V to -517.500000, 68.500000, -346.500000]
 [29Aug2025 05:01:09.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOT4P3__V: Teleported JOT4P3__V to -430.500000, -43.500000, -34.500000]
 [29Aug2025 05:01:20.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOT4P3__V: Teleported JOT4P3__V to -430.500000, -43.500000, -34.500000]
+[29Aug2025 05:01:52.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOT4P3__V lost connection: Disconnected
+[29Aug2025 05:01:52.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V left the game
+[29Aug2025 05:01:52.476] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Aug2025 05:01:55.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement [Diamonds!]
+[29Aug2025 05:02:04.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOT4P3__V[/127.3.200.255:50151] logged in with entity id 176426 at (-430.5, -43.96415937495544, -34.5)
+[29Aug2025 05:02:04.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V joined the game
+[29Aug2025 05:02:04.300] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to JOT4P3__V...
+[29Aug2025 05:02:04.301] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[29Aug2025 05:02:04.301] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to JOT4P3__V
+[29Aug2025 05:02:22.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow has made the advancement [Disme A Dozen]
+[29Aug2025 05:02:34.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOT4P3__V lost connection: Timed out
+[29Aug2025 05:02:34.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V left the game
+[29Aug2025 05:03:24.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOT4P3__V[/127.3.200.255:44413] logged in with entity id 178387 at (-430.5, -43.96415937495544, -34.5)
+[29Aug2025 05:03:24.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V joined the game
+[29Aug2025 05:03:24.436] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to JOT4P3__V...
+[29Aug2025 05:03:24.436] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[29Aug2025 05:03:24.437] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to JOT4P3__V
+[29Aug2025 05:03:54.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOT4P3__V lost connection: Timed out
+[29Aug2025 05:03:54.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V left the game
+[29Aug2025 05:05:39.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOT4P3__V[/127.3.200.255:39981] logged in with entity id 181874 at (-430.5, -43.96415937495544, -34.5)
+[29Aug2025 05:05:39.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V joined the game
+[29Aug2025 05:05:39.857] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to JOT4P3__V...
+[29Aug2025 05:05:39.857] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[29Aug2025 05:05:39.858] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to JOT4P3__V
+[29Aug2025 05:06:09.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOT4P3__V lost connection: Timed out
+[29Aug2025 05:06:09.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V left the game
