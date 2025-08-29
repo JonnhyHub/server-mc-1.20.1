@@ -249,6 +249,7 @@
     "criteria": {
       "minecraft:blaze": "2025-08-29 19:33:27 +0000",
       "minecraft:skeleton": "2025-07-18 03:20:37 +0000",
+      "minecraft:magma_cube": "2025-08-29 19:37:36 +0000",
       "minecraft:spider": "2025-07-18 03:44:21 +0000",
       "minecraft:creeper": "2025-07-18 03:42:23 +0000",
       "minecraft:wither_skeleton": "2025-08-29 19:32:49 +0000",
@@ -632,6 +633,7 @@
       "cooked_beef": "2025-07-18 05:50:45 +0000",
       "cooked_cod": "2025-07-18 04:35:05 +0000",
       "pumpkin_pie": "2025-07-18 03:45:16 +0000",
+      "bread": "2025-08-29 19:38:15 +0000",
       "rotten_flesh": "2025-07-18 03:21:18 +0000",
       "cooked_chicken": "2025-07-18 03:48:50 +0000",
       "mushroom_stew": "2025-07-18 03:12:01 +0000",
@@ -4148,6 +4150,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-08-29 19:39:35 +0000"
+    },
+    "done": true
+  },
   "lategamegolems:recipes/misc/lgg_gem_strength": {
     "criteria": {
       "Late Game Golem Gem of Strength": "2025-08-29 19:33:27 +0000"
@@ -4211,6 +4219,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-08-29 19:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-29 19:34:49 +0000"
     },
     "done": true
   },

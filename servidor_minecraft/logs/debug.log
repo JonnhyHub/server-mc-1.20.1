@@ -7296,3 +7296,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Aug2025 19:37:24.301] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
 [29Aug2025 19:37:24.552] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
 [29Aug2025 19:37:47.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to -72.500000, 62.500000, -27.500000]
+[29Aug2025 19:39:34.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 19:39:34.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 19:39:35.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Splintering II]
+[29Aug2025 19:44:34.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 19:44:34.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 19:45:03.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zehkro lost connection: Disconnected
+[29Aug2025 19:45:03.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro left the game
+[29Aug2025 19:45:03.508] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Aug2025 19:45:18.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Aug2025 19:45:18.393] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[29Aug2025 19:45:18.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Aug2025 19:45:18.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Aug2025 19:45:18.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Aug2025 19:45:18.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Aug2025 19:45:19.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Aug2025 19:45:19.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Aug2025 19:45:19.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 19:45:19.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 19:45:19.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Aug2025 19:45:19.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Aug2025 19:45:19.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Aug2025 19:45:19.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Aug2025 19:45:19.272] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29Aug2025 19:45:19.273] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[29Aug2025 19:45:19.273] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[29Aug2025 19:45:19.274] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
