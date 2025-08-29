@@ -630,7 +630,8 @@
       "pumpkin_pie": "2025-07-18 03:45:16 +0000",
       "rotten_flesh": "2025-07-18 03:21:18 +0000",
       "cooked_chicken": "2025-07-18 03:48:50 +0000",
-      "mushroom_stew": "2025-07-18 03:12:01 +0000"
+      "mushroom_stew": "2025-07-18 03:12:01 +0000",
+      "cooked_salmon": "2025-08-29 04:42:37 +0000"
     },
     "done": false
   },
@@ -1128,9 +1129,10 @@
   },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2025-07-18 03:47:33 +0000"
+      "has_parent_recipe": "2025-07-18 03:47:33 +0000",
+      "has_items": "2025-08-29 04:42:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/shears": {
     "criteria": {
@@ -3229,6 +3231,8 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-08-29 04:44:07 +0000",
+      "opened_chest": "2025-08-29 04:35:41 +0000",
       "opened_cart": "2025-08-28 04:44:57 +0000"
     },
     "done": false
@@ -3737,15 +3741,279 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-08-29 04:35:41 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/diamond_golem_sword": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-29 04:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/barbaric_vanguard_shinguard": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
+    "criteria": {
+      "has_zombie_heart": "2025-08-29 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_spear_diamond": {
+    "criteria": {
+      "Late Game Golem Diamond Spear": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_mace_diamond": {
+    "criteria": {
+      "Late Game Golem Diamond Mace": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/wind_spirit_shinguard": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/misc/empty_upgrade": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-29 04:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-29 04:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/barbaric_vanguard_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_axe_diamond": {
+    "criteria": {
+      "Late Game Golem Diamond Axe": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/diamond_golem_spear": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
   "modulargolems:golems/command": {
     "criteria": {
       "0": "2025-08-29 04:02:03 +0000"
     },
     "done": true
   },
+  "lategamegolems:recipes/misc/lgg_sword_diamond": {
+    "criteria": {
+      "Late Game Golem Diamond Sword": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_laser": {
+    "criteria": {
+      "Late Game Golem Laser": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gold_nugget": {
+    "criteria": {
+      "has_zombie_heart": "2025-08-29 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-29 04:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-29 04:31:09 +0000"
+    },
+    "done": true
+  },
   "modulargolems:golems/summon": {
     "criteria": {
       "0": "2025-08-29 03:55:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-08-29 04:36:08 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/zombie": {
+    "criteria": {
+      "has_zombie_heart": "2025-08-29 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/wind_spirit_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/barbaric_vanguard_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-08-29 04:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-08-29 04:44:07 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/rotten_flesh": {
+    "criteria": {
+      "has_zombie_heart": "2025-08-29 04:35:45 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/diamond_golem_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-29 04:31:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-08-29 04:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:recipes/combat/wind_spirit_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/super_magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2025-08-29 04:42:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-29 04:38:13 +0000"
     },
     "done": true
   },

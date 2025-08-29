@@ -1254,3 +1254,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Aug2025 04:15:35.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-468, y=69, z=-298} BlockPos{x=-468, y=67, z=-298}
 [29Aug2025 04:29:00.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cnnyy lost connection: Disconnected
 [29Aug2025 04:29:00.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy left the game
+[29Aug2025 04:33:27.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cnnyy[/127.129.162.187:60263] logged in with entity id 130710 at (-429.1509105936884, 63.0, -332.5679774283092)
+[29Aug2025 04:33:27.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy joined the game
+[29Aug2025 04:33:27.137] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to cnnyy...
+[29Aug2025 04:33:27.138] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[29Aug2025 04:33:27.138] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to cnnyy
+[29Aug2025 04:35:41.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement ['X' Marks the Spot]
+[29Aug2025 04:42:11.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Diamonds!]
+[29Aug2025 04:43:29.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Disme A Dozen]
+[29Aug2025 04:44:07.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Barrel Booty]
+[29Aug2025 04:48:41.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Made cnnyy a server operator]
+[29Aug2025 04:48:55.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Made JOT4P3__V a server operator]
+[29Aug2025 04:48:55.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cnnyy: Teleported cnnyy to -517.500000, 68.500000, -344.500000]
+[29Aug2025 04:50:28.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOT4P3__V: Teleported JOT4P3__V to -517.500000, 68.500000, -346.500000]

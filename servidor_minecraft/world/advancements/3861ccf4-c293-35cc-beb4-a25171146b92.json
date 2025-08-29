@@ -302,7 +302,9 @@
     "criteria": {
       "cooked_porkchop": "2025-08-28 04:33:18 +0000",
       "apple": "2025-08-28 05:19:09 +0000",
-      "bread": "2025-08-29 04:17:56 +0000"
+      "bread": "2025-08-29 04:17:56 +0000",
+      "salmon": "2025-08-29 04:38:41 +0000",
+      "cooked_salmon": "2025-08-29 04:44:21 +0000"
     },
     "done": false
   },
@@ -1194,6 +1196,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/kraken_shell_fragment": {
+    "criteria": {
+      "has_squid_beak": "2025-08-29 04:43:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-29 04:00:05 +0000"
@@ -1233,6 +1241,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-08-29 04:00:05 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/ink_sac": {
+    "criteria": {
+      "has_squid_beak": "2025-08-29 04:43:08 +0000"
     },
     "done": true
   },

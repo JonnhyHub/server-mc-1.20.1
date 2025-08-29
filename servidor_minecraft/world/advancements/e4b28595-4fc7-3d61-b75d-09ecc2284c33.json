@@ -713,6 +713,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-28 03:31:17 +0000",
       "minecraft:spider": "2025-08-26 04:03:57 +0000",
+      "minecraft:phantom": "2025-08-29 04:32:57 +0000",
       "minecraft:zombie": "2025-08-26 04:21:37 +0000",
       "minecraft:zombie_villager": "2025-08-28 03:49:55 +0000"
     },
