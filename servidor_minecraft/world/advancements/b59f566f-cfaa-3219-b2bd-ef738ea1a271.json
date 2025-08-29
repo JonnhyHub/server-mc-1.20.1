@@ -3742,6 +3742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-29 05:48:20 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-08-29 04:35:41 +0000"
@@ -3868,6 +3874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-29 05:48:20 +0000"
+    },
+    "done": true
+  },
   "modulargolems:recipes/combat/diamond_golem_spear": {
     "criteria": {
       "has_diamond": "2025-08-29 04:42:11 +0000"
@@ -3883,6 +3895,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-29 05:48:20 +0000"
     },
     "done": true
   },
@@ -4009,6 +4027,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_yellow_dye": "2025-08-29 05:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_ingot_from_short_sword": {
+    "criteria": {
+      "has_weapon": "2025-08-29 05:46:56 +0000"
     },
     "done": true
   },
