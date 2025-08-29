@@ -4114,5 +4114,11 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2025-08-29 18:58:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
