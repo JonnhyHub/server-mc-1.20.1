@@ -3737,6 +3737,12 @@
     },
     "done": true
   },
+  "modulargolems:golems/command": {
+    "criteria": {
+      "0": "2025-08-29 04:02:03 +0000"
+    },
+    "done": true
+  },
   "modulargolems:golems/summon": {
     "criteria": {
       "0": "2025-08-29 03:55:06 +0000"
