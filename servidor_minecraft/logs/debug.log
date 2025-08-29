@@ -6981,3 +6981,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Aug2025 18:45:16.057] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Zehkro...
 [29Aug2025 18:45:16.058] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [29Aug2025 18:45:16.058] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zehkro
+[29Aug2025 18:49:30.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 18:49:30.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 18:50:53.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to -430.500000, -43.500000, -34.500000]
+[29Aug2025 18:54:30.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 18:54:30.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 18:55:53.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to -516.500000, 68.500000, -332.500000]
