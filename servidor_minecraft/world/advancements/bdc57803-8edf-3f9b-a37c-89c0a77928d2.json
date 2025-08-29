@@ -1729,7 +1729,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-26 05:01:04 +0000",
       "minecraft:spider": "2025-08-28 03:56:57 +0000",
-      "minecraft:zombie": "2025-08-28 03:54:31 +0000"
+      "minecraft:zombie": "2025-08-28 03:54:31 +0000",
+      "minecraft:drowned": "2025-08-29 04:49:34 +0000"
     },
     "done": false
   },
@@ -2532,6 +2533,24 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/stick": {
+    "criteria": {
+      "has_witch_hat": "2025-08-29 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gunpowder_witch_hat": {
+    "criteria": {
+      "has_witch_hat": "2025-08-29 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/glass_bottle": {
+    "criteria": {
+      "has_witch_hat": "2025-08-29 04:56:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-08-29 04:46:08 +0000"
@@ -2547,6 +2566,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-08-29 04:46:08 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/sugar": {
+    "criteria": {
+      "has_witch_hat": "2025-08-29 04:56:50 +0000"
     },
     "done": true
   },
@@ -2568,9 +2593,39 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mob_charm_fragments/witch": {
+    "criteria": {
+      "has_witch_hat": "2025-08-29 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-29 04:57:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-08-29 04:46:08 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/redstone": {
+    "criteria": {
+      "has_witch_hat": "2025-08-29 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-29 04:57:03 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_death_process_deactivate": {
+    "criteria": {
+      "Late Game Golem Death Process Explode": "2025-08-29 04:56:36 +0000"
     },
     "done": true
   },
@@ -2580,9 +2635,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-29 04:57:03 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/glowstone_dust": {
+    "criteria": {
+      "has_witch_hat": "2025-08-29 04:56:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-29 04:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-29 04:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-29 04:56:28 +0000"
     },
     "done": true
   },
