@@ -1253,3 +1253,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Aug2025 19:15:51.097] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Zehkro...
 [29Aug2025 19:15:51.097] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [29Aug2025 19:15:51.098] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zehkro
+[29Aug2025 19:21:07.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [We Need to Go Deeper]
+[29Aug2025 19:21:08.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4067ms or 81 ticks behind
+[29Aug2025 19:21:23.054] [Worker-Main-68/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[29Aug2025 19:21:23.064] [Worker-Main-68/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[29Aug2025 19:22:56.496] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[29Aug2025 19:25:17.069] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 1 ms
