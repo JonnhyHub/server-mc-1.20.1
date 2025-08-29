@@ -6466,3 +6466,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Aug2025 03:06:40.981] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [29Aug2025 03:06:40.981] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to JOT4P3__V
 [29Aug2025 03:10:20.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOT4P3__V moved too quickly! 3.331109266664953,0.11425927506424216,9.573512507150326
+[29Aug2025 03:11:37.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 03:11:37.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 03:16:37.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 03:16:37.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 03:17:57.378] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-57, z=11}
+[29Aug2025 03:17:58.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [Best Friends Forever]
+[29Aug2025 03:19:42.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cnnyy> -500
+[29Aug2025 03:21:37.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 03:21:37.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 03:26:37.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 03:26:37.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 03:31:37.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 03:31:37.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 03:36:37.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Aug2025 03:36:37.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Aug2025 03:37:39.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement [A Terrifying Entrance]
+[29Aug2025 03:37:52.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [A Terrifying Entrance]
