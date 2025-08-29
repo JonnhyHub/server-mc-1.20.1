@@ -301,7 +301,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-28 04:33:18 +0000",
-      "apple": "2025-08-28 05:19:09 +0000"
+      "apple": "2025-08-28 05:19:09 +0000",
+      "bread": "2025-08-29 04:17:56 +0000"
     },
     "done": false
   },
@@ -1214,6 +1215,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-08-29 04:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-29 04:23:54 +0000"
     },
     "done": true
   },
