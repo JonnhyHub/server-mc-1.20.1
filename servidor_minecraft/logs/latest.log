@@ -1327,3 +1327,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Aug2025 05:27:33.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow left the game
 [29Aug2025 05:28:33.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to -516.500000, 68.500000, -332.500000]
 [29Aug2025 05:30:15.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Cover Me with Diamonds]
+[29Aug2025 05:55:55.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zehkro lost connection: Disconnected
+[29Aug2025 05:55:55.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro left the game
+[29Aug2025 05:56:04.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Aug2025 05:56:04.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[29Aug2025 05:56:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Aug2025 05:56:07.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Aug2025 05:56:07.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Aug2025 05:56:07.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Aug2025 05:56:08.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Aug2025 05:56:09.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Aug2025 05:56:09.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Aug2025 05:56:09.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Aug2025 05:56:09.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Aug2025 05:56:09.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Aug2025 05:56:09.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Aug2025 05:56:10.058] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29Aug2025 05:56:10.058] [Server thread/INFO] [Framework/]: Finished unloading server configs

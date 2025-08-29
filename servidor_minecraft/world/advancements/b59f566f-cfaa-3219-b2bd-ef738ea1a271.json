@@ -3982,6 +3982,12 @@
     },
     "done": true
   },
+  "lategamegolems:recipes/misc/lgg_thorn_shield": {
+    "criteria": {
+      "Late Game Golem Shield Thorns": "2025-08-29 05:55:08 +0000"
+    },
+    "done": true
+  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-08-29 04:43:29 +0000"
@@ -4063,6 +4069,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-08-29 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_heavy_shield": {
+    "criteria": {
+      "Late Game Golem Shield Heavy": "2025-08-29 05:55:08 +0000"
     },
     "done": true
   },
