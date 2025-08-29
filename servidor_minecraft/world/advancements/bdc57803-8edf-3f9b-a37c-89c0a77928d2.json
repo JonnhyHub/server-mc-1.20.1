@@ -2554,6 +2554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-29 05:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
@@ -2782,6 +2788,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/bone": {
+    "criteria": {
+      "has_rib_bone": "2025-08-29 05:24:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-29 05:02:01 +0000"
@@ -2887,6 +2899,12 @@
   "modulargolems:recipes/combat/barbaric_vanguard_helmet": {
     "criteria": {
       "has_diamond": "2025-08-29 05:01:55 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/skeleton": {
+    "criteria": {
+      "has_rib_bone": "2025-08-29 05:24:01 +0000"
     },
     "done": true
   },
