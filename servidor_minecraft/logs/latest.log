@@ -1248,3 +1248,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Aug2025 18:55:53.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to -516.500000, 68.500000, -332.500000]
 [29Aug2025 19:05:46.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zehkro lost connection: Disconnected
 [29Aug2025 19:05:46.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro left the game
+[29Aug2025 19:15:51.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zehkro[/127.212.24.107:39743] logged in with entity id 33625 at (-509.4857646898771, 68.0, -346.4700450353073)
+[29Aug2025 19:15:51.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro joined the game
+[29Aug2025 19:15:51.097] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Zehkro...
+[29Aug2025 19:15:51.097] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[29Aug2025 19:15:51.098] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Zehkro
