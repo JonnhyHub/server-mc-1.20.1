@@ -1268,3 +1268,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [30Aug2025 02:51:53.231] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to cnnyy
 [30Aug2025 02:56:44.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nariflow lost connection: Disconnected
 [30Aug2025 02:56:44.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow left the game
+[30Aug2025 02:59:26.489] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7bb5f4fa[id=<null>,name=nariflow,properties={},legacy=false] (/127.96.243.87:36567) lost connection: Disconnected
+[30Aug2025 02:59:34.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nariflow[/127.96.243.87:55315] logged in with entity id 35716 at (-514.89696567728, 68.0, -342.8673629169003)
+[30Aug2025 02:59:34.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow joined the game
+[30Aug2025 02:59:34.927] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to nariflow...
+[30Aug2025 02:59:34.928] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Aug2025 02:59:34.929] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to nariflow
+[30Aug2025 03:00:30.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOT4P3__V: Teleported JOT4P3__V to -430.500000, -43.500000, -34.500000]
+[30Aug2025 03:03:32.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cnnyy: Teleported cnnyy to -517.500000, 68.500000, -344.500000]
+[30Aug2025 03:04:19.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[30Aug2025 03:04:27.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported JOT4P3__V to Zehkro]
+[30Aug2025 03:05:33.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOT4P3__V: Teleported JOT4P3__V to -430.500000, -43.500000, -34.500000]
+[30Aug2025 03:07:35.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
