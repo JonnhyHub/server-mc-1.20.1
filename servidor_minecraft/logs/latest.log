@@ -1250,3 +1250,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [30Aug2025 02:40:49.339] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to nariflow
 [30Aug2025 02:43:32.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nariflow lost connection: Disconnected
 [30Aug2025 02:43:32.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow left the game
+[30Aug2025 02:48:15.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nariflow[/127.96.243.87:39233] logged in with entity id 19661 at (-518.4685293226743, 68.0, -339.3928315103679)
+[30Aug2025 02:48:15.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow joined the game
+[30Aug2025 02:48:15.277] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to nariflow...
+[30Aug2025 02:48:15.278] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Aug2025 02:48:15.279] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to nariflow
+[30Aug2025 02:49:19.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOT4P3__V[/127.33.250.241:57089] logged in with entity id 21134 at (-430.5, -43.96415937495544, -34.5)
+[30Aug2025 02:49:19.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V joined the game
+[30Aug2025 02:49:19.985] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to JOT4P3__V...
+[30Aug2025 02:49:19.985] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Aug2025 02:49:19.986] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to JOT4P3__V
+[30Aug2025 02:49:57.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOT4P3__V: Teleported JOT4P3__V to -517.500000, 68.500000, -346.500000]
+[30Aug2025 02:51:53.130] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cnnyy[/127.129.162.187:47607] logged in with entity id 24923 at (-516.6651569183017, 68.0, -335.23750001192093)
+[30Aug2025 02:51:53.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy joined the game
+[30Aug2025 02:51:53.230] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to cnnyy...
+[30Aug2025 02:51:53.230] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Aug2025 02:51:53.231] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to cnnyy
+[30Aug2025 02:56:44.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nariflow lost connection: Disconnected
+[30Aug2025 02:56:44.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow left the game
