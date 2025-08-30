@@ -1239,3 +1239,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [30Aug2025 20:29:10.586] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [30Aug2025 20:29:10.587] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md207244$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
 [30Aug2025 20:32:33.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[30Aug2025 20:47:40.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to -1072.500000, 70.500000, 304.500000]
+[30Aug2025 20:47:40.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4767ms or 95 ticks behind
+[30Aug2025 20:47:45.537] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1017, y=-2, z=379}
+[30Aug2025 20:47:50.514] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Aug2025 20:47:50.518] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Aug2025 20:50:08.275] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1161, y=-42, z=545}
+[30Aug2025 20:52:07.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has completed the challenge [Premium!]
+[30Aug2025 20:54:50.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to -653.500000, 69.500000, -1160.500000]
+[30Aug2025 20:54:50.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3064ms or 61 ticks behind
+[30Aug2025 20:55:01.958] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-687, y=-33, z=-1066}
+[30Aug2025 20:55:21.925] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-497, y=-30, z=-1260}
+[30Aug2025 20:55:24.693] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-817, y=-20, z=-1312}
+[30Aug2025 20:55:28.046] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-657, y=-8, z=-1347}
+[30Aug2025 20:55:33.855] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-461, y=32, z=-1165}
+[30Aug2025 20:55:59.850] [Worker-Main-35/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-421, y=34, z=-1313}
+[30Aug2025 20:56:01.359] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-423, y=29, z=-1207}
+[30Aug2025 20:56:13.396] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-767, y=-51, z=-998}
+[30Aug2025 20:56:52.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Undead Guard]
+[30Aug2025 20:57:36.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zehkro moved too quickly! -9.808646671060501,0.0,-2.0377348913762034
+[30Aug2025 20:57:36.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18941ms or 378 ticks behind
+[30Aug2025 20:57:44.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Living Armor]
+[30Aug2025 20:57:47.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has completed the challenge [The Fallen Knight]
+[30Aug2025 20:58:36.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has completed the challenge [Centennial]
+[30Aug2025 21:01:11.745] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-382, y=-44, z=-1263}
+[30Aug2025 21:01:53.259] [Worker-Main-36/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-595, y=-53, z=-944}
+[30Aug2025 21:02:07.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to -516.500000, 68.500000, -332.500000]

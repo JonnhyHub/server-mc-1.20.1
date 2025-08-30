@@ -249,6 +249,7 @@
     "criteria": {
       "minecraft:blaze": "2025-08-29 19:33:27 +0000",
       "minecraft:skeleton": "2025-07-18 03:20:37 +0000",
+      "minecraft:vindicator": "2025-08-30 20:50:33 +0000",
       "minecraft:magma_cube": "2025-08-29 19:37:36 +0000",
       "minecraft:spider": "2025-07-18 03:44:21 +0000",
       "minecraft:creeper": "2025-07-18 03:42:23 +0000",
@@ -4836,6 +4837,60 @@
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2025-08-30 04:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-30 20:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-30 20:58:49 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-08-30 20:52:07 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_posessed_paladin": {
+    "criteria": {
+      "ambusher": "2025-08-30 20:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-30 20:49:20 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_guard": {
+    "criteria": {
+      "ambusher": "2025-08-30 20:56:52 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-08-30 20:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-30 20:51:42 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2025-08-30 20:57:44 +0000"
     },
     "done": true
   },
