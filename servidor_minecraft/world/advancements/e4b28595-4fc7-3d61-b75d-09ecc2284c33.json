@@ -2895,12 +2895,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-08-30 03:15:57 +0000"
-    },
-    "done": true
-  },
   "reliquary:recipes/mob_charm": {
     "criteria": {
       "has_mob_charm_fragment": "2025-08-30 03:15:21 +0000"
@@ -2910,6 +2904,24 @@
   "reliquary:recipes/misc/mob_charm_belt": {
     "criteria": {
       "has_mob_charm_fragment": "2025-08-30 03:15:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-08-30 03:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-08-30 03:26:38 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_death_process_deactivate": {
+    "criteria": {
+      "Late Game Golem Death Process Explode": "2025-08-30 03:30:12 +0000"
     },
     "done": true
   },

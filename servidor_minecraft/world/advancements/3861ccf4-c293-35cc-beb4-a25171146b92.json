@@ -822,6 +822,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:phantom": "2025-08-30 03:31:44 +0000",
+      "minecraft:enderman": "2025-08-30 03:23:50 +0000",
       "minecraft:zombie": "2025-08-28 04:46:30 +0000"
     },
     "done": false
@@ -1877,9 +1879,57 @@
     },
     "done": true
   },
+  "davespotioneering:recipes/tools/magenta_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/brewing/compound_brewing_stand": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/red_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-08-30 03:07:42 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/lime_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/blue_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/light_gray_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/gilded_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/gray_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
     },
     "done": true
   },
@@ -1889,9 +1939,75 @@
     },
     "done": true
   },
+  "davespotioneering:recipes/tools/black_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/white_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/purple_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/cyan_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-08-30 03:07:42 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/light_blue_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/brown_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/aged_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/pink_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/green_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/orange_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/yellow_umbrella": {
+    "criteria": {
+      "has_shield": "2025-08-30 03:31:06 +0000"
     },
     "done": true
   },

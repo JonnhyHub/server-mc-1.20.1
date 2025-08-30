@@ -1291,3 +1291,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [30Aug2025 03:16:47.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOT4P3__V lost connection: Disconnected
 [30Aug2025 03:16:47.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V left the game
 [30Aug2025 03:16:47.072] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Aug2025 03:21:45.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOT4P3__V[/127.33.250.241:39769] logged in with entity id 69502 at (-519.7396219520981, 68.0, -344.0944029600014)
+[30Aug2025 03:21:45.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V joined the game
+[30Aug2025 03:21:45.510] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to JOT4P3__V...
+[30Aug2025 03:21:45.511] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Aug2025 03:21:45.511] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to JOT4P3__V
+[30Aug2025 03:22:01.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOT4P3__V: Teleported JOT4P3__V to -430.500000, -43.500000, -34.500000]
+[30Aug2025 03:22:08.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOT4P3__V: Teleported JOT4P3__V to -517.500000, 68.500000, -346.500000]
+[30Aug2025 03:22:44.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cnnyy[/127.129.162.187:33809] logged in with entity id 71107 at (-430.24672515775643, 63.0, -334.72587046975707)
+[30Aug2025 03:22:44.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy joined the game
+[30Aug2025 03:22:44.620] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to cnnyy...
+[30Aug2025 03:22:44.620] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Aug2025 03:22:44.621] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to cnnyy
+[30Aug2025 03:26:38.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [Cover Me with Diamonds]
+[30Aug2025 03:27:02.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cnnyy: Teleported cnnyy to -517.500000, 68.500000, -344.500000]
+[30Aug2025 03:31:30.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cnnyy: Teleported cnnyy to -426.500000, 63.500000, -337.500000]
+[30Aug2025 03:31:37.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Take Aim]
+[30Aug2025 03:31:40.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cnnyy: Teleported cnnyy to -517.500000, 68.500000, -344.500000]
+[30Aug2025 03:35:03.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow has made the advancement [We Need to Go Deeper]
+[30Aug2025 03:35:09.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [We Need to Go Deeper]
+[30Aug2025 03:35:17.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement [We Need to Go Deeper]
+[30Aug2025 03:35:37.757] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[30Aug2025 03:36:33.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to -147.500000, 61.500000, 239.500000]
+[30Aug2025 03:36:47.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Spooky Scary Skeleton]

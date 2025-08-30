@@ -3028,5 +3028,17 @@
     },
     "done": true
   },
+  "reliquary:recipes/mob_charm": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-08-30 03:27:31 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_belt": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-08-30 03:27:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
