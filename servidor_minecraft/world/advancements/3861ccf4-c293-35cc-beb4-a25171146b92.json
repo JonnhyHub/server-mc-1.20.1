@@ -2187,6 +2187,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-08-30 05:19:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2025-08-30 03:47:11 +0000"
@@ -2436,6 +2442,12 @@
   "davespotioneering:recipes/tools/green_umbrella": {
     "criteria": {
       "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-08-30 05:19:03 +0000"
     },
     "done": true
   },
