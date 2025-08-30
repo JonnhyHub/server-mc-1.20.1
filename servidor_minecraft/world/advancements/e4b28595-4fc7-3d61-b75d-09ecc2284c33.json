@@ -3111,6 +3111,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-08-30 04:49:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-08-30 03:49:02 +0000"
@@ -3150,6 +3156,12 @@
   "reliquary:recipes/misc/uncrafting/rotten_flesh": {
     "criteria": {
       "has_zombie_heart": "2025-08-30 04:24:53 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-08-30 04:51:39 +0000"
     },
     "done": true
   },

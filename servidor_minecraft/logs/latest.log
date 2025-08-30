@@ -1431,3 +1431,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [30Aug2025 04:41:49.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nariflow: Teleported nariflow to -517.500000, 68.500000, -344.500000]
 [30Aug2025 04:42:18.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOT4P3__V: Teleported JOT4P3__V to -517.500000, 68.500000, -346.500000]
 [30Aug2025 04:45:50.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement [Magery]
+[30Aug2025 04:48:48.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [A Flaming Sword]
+[30Aug2025 04:51:39.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [Magery]
+[30Aug2025 04:57:24.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cnnyy lost connection: Timed out
+[30Aug2025 04:57:24.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy left the game
+[30Aug2025 04:57:45.586] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cnnyy[/127.129.162.187:41783] logged in with entity id 225941 at (-508.1810692023181, 68.0, -332.8736239148138)
+[30Aug2025 04:57:45.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy joined the game
+[30Aug2025 04:57:45.646] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to cnnyy...
+[30Aug2025 04:57:45.647] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Aug2025 04:57:45.647] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to cnnyy
