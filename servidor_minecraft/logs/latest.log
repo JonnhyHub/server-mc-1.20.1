@@ -1388,3 +1388,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [30Aug2025 04:05:31.374] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-57, z=11}
 [30Aug2025 04:06:03.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [30Aug2025 04:06:31.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [Rotten to the Core]
+[30Aug2025 04:09:43.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zehkro> xaero-waypoint:arbol rosa:A:-434:73:-1325:13:false:0:Internal-overworld-waypoints
+[30Aug2025 04:09:54.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nariflow: Teleported nariflow to -433.500000, 73.500000, -1324.500000]
+[30Aug2025 04:11:03.621] [Worker-Main-81/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=88, y=-56, z=10}
+[30Aug2025 04:13:10.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[30Aug2025 04:13:28.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Penteconter]
+[30Aug2025 04:15:49.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nariflow: Teleported nariflow to -517.500000, 68.500000, -344.500000]
+[30Aug2025 04:16:37.014] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-614, y=120, z=-2131} but found not block entity block Block{minecraft:polished_andesite} at location
+[30Aug2025 04:16:37.014] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:polished_andesite} but failed at location BlockPos{x=-614, y=120, z=-2131}
+[30Aug2025 04:17:37.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JOT4P3__V> potoooooooo

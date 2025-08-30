@@ -2163,9 +2163,10 @@
   },
   "enigmaticlegacy:recipes/generic/xp_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-08-28 04:46:26 +0000"
+      "has_parent_recipe": "2025-08-28 04:46:26 +0000",
+      "has_items": "2025-08-30 04:08:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
@@ -3001,6 +3002,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-08-30 04:06:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-08-30 03:39:38 +0000"
@@ -3040,6 +3047,12 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-08-30 04:02:37 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-08-30 04:08:04 +0000"
     },
     "done": true
   },
