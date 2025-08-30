@@ -304,10 +304,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-28 04:33:18 +0000",
+      "cooked_mutton": "2025-08-30 04:31:04 +0000",
       "cooked_beef": "2025-08-29 04:58:38 +0000",
       "apple": "2025-08-28 05:19:09 +0000",
       "bread": "2025-08-29 04:17:56 +0000",
       "salmon": "2025-08-29 04:38:41 +0000",
+      "cooked_chicken": "2025-08-30 04:21:50 +0000",
       "cooked_salmon": "2025-08-29 04:44:21 +0000"
     },
     "done": false
@@ -1891,6 +1893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-08-30 04:14:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-08-30 03:55:46 +0000"
@@ -1909,15 +1917,33 @@
     },
     "done": true
   },
+  "lategamegolems:recipes/misc/lgg_spear_emerald": {
+    "criteria": {
+      "Late Game Golem Emerald Spear": "2025-08-30 04:33:55 +0000"
+    },
+    "done": true
+  },
   "davespotioneering:recipes/tools/magenta_umbrella": {
     "criteria": {
       "has_shield": "2025-08-30 03:31:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-08-30 04:34:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-08-30 03:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-30 04:33:25 +0000"
     },
     "done": true
   },
@@ -2005,6 +2031,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-30 04:31:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2025-08-30 03:55:46 +0000"
@@ -2029,9 +2061,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-30 04:33:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-08-30 04:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-30 04:33:25 +0000"
     },
     "done": true
   },
@@ -2050,6 +2094,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-08-30 03:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-30 04:33:25 +0000"
     },
     "done": true
   },
@@ -2083,6 +2133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-30 04:33:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-08-30 03:51:29 +0000"
@@ -2092,6 +2148,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-08-30 03:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-30 04:34:01 +0000"
     },
     "done": true
   },
@@ -2155,9 +2217,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-30 04:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-08-30 04:34:01 +0000"
+    },
+    "done": true
+  },
   "bonfires:bonfires/root": {
     "criteria": {
       "died": "2025-08-30 03:41:11 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-08-30 04:33:25 +0000"
     },
     "done": true
   },
@@ -2191,6 +2271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-08-30 04:34:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-08-30 03:55:37 +0000"
@@ -2212,6 +2298,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-08-30 03:55:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-08-30 04:33:57 +0000"
     },
     "done": true
   },
@@ -2251,6 +2343,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2025-08-30 04:33:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-08-30 03:46:30 +0000"
@@ -2269,9 +2367,27 @@
     },
     "done": true
   },
+  "lategamegolems:recipes/misc/lgg_axe_emerald": {
+    "criteria": {
+      "Late Game Golem Emerald Axe": "2025-08-30 04:33:55 +0000"
+    },
+    "done": true
+  },
   "davespotioneering:recipes/tools/cyan_umbrella": {
     "criteria": {
       "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-08-30 04:34:01 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_mace_emerald": {
+    "criteria": {
+      "Late Game Golem Emerald Mace": "2025-08-30 04:33:55 +0000"
     },
     "done": true
   },
@@ -2338,6 +2454,12 @@
   "davespotioneering:recipes/tools/orange_umbrella": {
     "criteria": {
       "has_shield": "2025-08-30 03:31:06 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_sword_emerald": {
+    "criteria": {
+      "Late Game Golem Emerald Sword": "2025-08-30 04:33:55 +0000"
     },
     "done": true
   },

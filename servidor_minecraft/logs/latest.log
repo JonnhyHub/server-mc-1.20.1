@@ -1397,3 +1397,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [30Aug2025 04:16:37.014] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-614, y=120, z=-2131} but found not block entity block Block{minecraft:polished_andesite} at location
 [30Aug2025 04:16:37.014] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:polished_andesite} but failed at location BlockPos{x=-614, y=120, z=-2131}
 [30Aug2025 04:17:37.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JOT4P3__V> potoooooooo
+[30Aug2025 04:18:36.251] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-399, y=65, z=-2027} but found not block entity block Block{minecraft:air} at location
+[30Aug2025 04:18:36.252] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-399, y=65, z=-2027}
+[30Aug2025 04:20:42.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V fell from a high place
+[30Aug2025 04:20:42.178] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for JOT4P3__V at X: -609.110585719905, Y: 80.0, Z: -1806.4610047111757
+[30Aug2025 04:20:45.720] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Aug2025 04:21:13.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cnnyy> xaero-waypoint:pesao:P:-614:64:-1808:4:false:0:Internal-overworld-waypoints
+[30Aug2025 04:21:25.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOT4P3__V: Teleported JOT4P3__V to -610.500000, 72.500000, -1807.500000]
+[30Aug2025 04:21:37.861] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Aug2025 04:21:37.870] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Aug2025 04:21:38.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[30Aug2025 04:21:42.309] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player JOT4P3__V picking up: PermanentItemEntity['Extradimensional Vessel'/167509, l='ServerLevel[world]', x=-609.11, y=81.50, z=-1806.46]
+[30Aug2025 04:21:42.309] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/167509, l='ServerLevel[world]', x=-609.11, y=81.50, z=-1806.46]
+[30Aug2025 04:22:55.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [nariflow: Teleported nariflow to -613.500000, 64.500000, -1807.500000]
+[30Aug2025 04:23:13.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Book of Monsters]
+[30Aug2025 04:23:18.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Would you Like to Know More?]
+[30Aug2025 04:23:57.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported nariflow to cnnyy]
+[30Aug2025 04:24:25.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zehkro has made the advancement [Tools of the Trade]
+[30Aug2025 04:24:49.623] [Worker-Main-84/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-53, z=10}
+[30Aug2025 04:25:40.319] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Aug2025 04:25:40.319] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Aug2025 04:26:20.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zehkro moved too quickly! -4.619170986564839,2.024424088213692,-8.946077220616644
+[30Aug2025 04:26:20.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nariflow moved too quickly! 1.8540865344954227,-1.0,-9.85880630993097
+[30Aug2025 04:26:20.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOT4P3__V moved too quickly! 7.812287159669097,-0.8710987470140168,-6.273775335153914
+[30Aug2025 04:26:20.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4210ms or 84 ticks behind
+[30Aug2025 04:26:52.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow has made the advancement [Best Friends Forever]
+[30Aug2025 04:31:53.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow has made the advancement [My Name is Nobody]
+[30Aug2025 04:32:59.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported Zehkro to -516.500000, 68.500000, -332.500000]
+[30Aug2025 04:33:44.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy has made the advancement [Penteconter]
+[30Aug2025 04:33:51.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V has made the advancement [Penteconter]
+[30Aug2025 04:33:57.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow has made the advancement [Close Quarters]
+[30Aug2025 04:35:40.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cnnyy: Teleported cnnyy to -517.500000, 68.500000, -344.500000]
