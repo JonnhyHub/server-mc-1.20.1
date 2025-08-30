@@ -4125,6 +4125,18 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-29 19:21:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-29 19:21:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-08-29 19:24:31 +0000",
@@ -4132,51 +4144,15 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-29 19:21:38 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/brewing/haste_potion": {
     "criteria": {
       "has_items": "2025-08-29 19:23:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-08-29 19:21:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-08-29 19:33:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_tool": {
-    "criteria": {
-      "tool": "2025-08-29 19:39:35 +0000"
-    },
-    "done": true
-  },
-  "lategamegolems:recipes/misc/lgg_gem_strength": {
-    "criteria": {
-      "Late Game Golem Gem of Strength": "2025-08-29 19:33:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-08-29 19:33:15 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/glowing_water": {
-    "criteria": {
-      "has_nether_wart": "2025-08-29 19:33:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-08-29 19:33:40 +0000"
     },
     "done": true
   },
@@ -4189,12 +4165,6 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-08-29 19:23:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-08-29 19:33:15 +0000"
     },
     "done": true
   },
@@ -4222,21 +4192,39 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "lava_bucket": "2025-08-29 19:34:49 +0000"
+      "fortress": "2025-08-29 19:32:12 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "entered_nether": "2025-08-29 19:21:07 +0000"
+      "has_nether_wart": "2025-08-29 19:33:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "reliquary:recipes/misc/glowing_water": {
     "criteria": {
-      "has_soul_sand": "2025-08-29 19:33:40 +0000"
+      "has_nether_wart": "2025-08-29 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-29 19:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-29 19:33:27 +0000"
+    },
+    "done": true
+  },
+  "lategamegolems:recipes/misc/lgg_gem_strength": {
+    "criteria": {
+      "Late Game Golem Gem of Strength": "2025-08-29 19:33:27 +0000"
     },
     "done": true
   },
@@ -4252,21 +4240,33 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-08-29 19:32:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-08-29 19:21:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-08-29 19:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-08-29 19:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-08-29 19:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-29 19:34:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-08-29 19:39:35 +0000"
     },
     "done": true
   },

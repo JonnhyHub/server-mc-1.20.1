@@ -1241,3 +1241,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [30Aug2025 02:37:23.295] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to nariflow...
 [30Aug2025 02:37:23.295] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [30Aug2025 02:37:23.296] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to nariflow
+[30Aug2025 02:40:42.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nariflow lost connection: Disconnected
+[30Aug2025 02:40:42.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow left the game
+[30Aug2025 02:40:49.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nariflow[/127.96.243.87:59859] logged in with entity id 9932 at (-518.4685293226743, 68.0, -339.3928315103679)
+[30Aug2025 02:40:49.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow joined the game
+[30Aug2025 02:40:49.337] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to nariflow...
+[30Aug2025 02:40:49.338] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Aug2025 02:40:49.339] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to nariflow
+[30Aug2025 02:43:32.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nariflow lost connection: Disconnected
+[30Aug2025 02:43:32.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nariflow left the game
