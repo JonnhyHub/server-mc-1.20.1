@@ -1280,3 +1280,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [30Aug2025 03:04:27.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zehkro: Teleported JOT4P3__V to Zehkro]
 [30Aug2025 03:05:33.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOT4P3__V: Teleported JOT4P3__V to -430.500000, -43.500000, -34.500000]
 [30Aug2025 03:07:35.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[30Aug2025 03:08:33.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[30Aug2025 03:10:36.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cnnyy: Teleported cnnyy to -517.500000, 68.500000, -344.500000]
+[30Aug2025 03:13:34.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cnnyy: Teleported cnnyy to -426.500000, 63.500000, -337.500000]
+[30Aug2025 03:13:39.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cnnyy: Teleported cnnyy to -517.500000, 68.500000, -344.500000]
+[30Aug2025 03:14:14.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cnnyy: Teleported cnnyy to -426.500000, 63.500000, -337.500000]
+[30Aug2025 03:16:19.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOT4P3__V: Teleported JOT4P3__V to -517.500000, 68.500000, -346.500000]
+[30Aug2025 03:16:24.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cnnyy lost connection: Disconnected
+[30Aug2025 03:16:24.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cnnyy left the game
+[30Aug2025 03:16:47.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOT4P3__V lost connection: Disconnected
+[30Aug2025 03:16:47.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOT4P3__V left the game
+[30Aug2025 03:16:47.072] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
