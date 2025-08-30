@@ -104,6 +104,7 @@
       "minecraft:forest": "2025-08-26 03:54:36 +0000",
       "minecraft:lush_caves": "2025-08-28 03:40:11 +0000",
       "minecraft:jungle": "2025-08-28 03:45:08 +0000",
+      "minecraft:flower_forest": "2025-08-30 03:46:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-26 05:04:14 +0000",
       "minecraft:savanna": "2025-08-28 04:09:03 +0000",
       "minecraft:plains": "2025-08-26 03:52:42 +0000"
@@ -3052,9 +3053,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-08-30 03:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-08-30 03:38:12 +0000"
+    },
+    "done": true
+  },
+  "bonfires:bonfires/root": {
+    "criteria": {
+      "died": "2025-08-30 03:50:45 +0000"
     },
     "done": true
   },
@@ -3067,6 +3080,12 @@
   "reliquary:recipes/mob_charm": {
     "criteria": {
       "has_mob_charm_fragment": "2025-08-30 03:27:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-08-30 03:51:56 +0000"
     },
     "done": true
   },
@@ -3097,6 +3116,24 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-08-30 03:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-08-30 04:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-30 03:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-30 03:54:28 +0000"
     },
     "done": true
   },

@@ -91,6 +91,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-08-30 03:48:55 +0000",
       "minecraft:birch_forest": "2025-08-29 04:54:34 +0000",
       "minecraft:bamboo_jungle": "2025-08-28 03:40:17 +0000",
       "minecraft:wooded_badlands": "2025-08-28 05:07:03 +0000",
@@ -104,6 +105,7 @@
       "minecraft:forest": "2025-08-26 03:57:43 +0000",
       "minecraft:lush_caves": "2025-08-26 03:52:09 +0000",
       "minecraft:jungle": "2025-08-28 03:40:40 +0000",
+      "minecraft:flower_forest": "2025-08-30 03:47:02 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-26 05:03:54 +0000",
       "minecraft:savanna": "2025-08-28 04:09:04 +0000",
       "minecraft:plains": "2025-08-26 03:52:33 +0000"
@@ -714,6 +716,7 @@
     "criteria": {
       "minecraft:pillager": "2025-08-30 03:43:16 +0000",
       "minecraft:skeleton": "2025-08-28 03:31:17 +0000",
+      "minecraft:ravager": "2025-08-30 03:51:27 +0000",
       "minecraft:spider": "2025-08-26 04:03:57 +0000",
       "minecraft:phantom": "2025-08-29 04:32:57 +0000",
       "minecraft:zombie": "2025-08-26 04:21:37 +0000",
@@ -2914,15 +2917,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-30 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-30 04:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-08-30 03:35:10 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-08-30 03:49:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-08-30 03:35:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-30 03:49:02 +0000"
     },
     "done": true
   },
@@ -2938,9 +2965,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-30 04:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-08-30 03:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-30 04:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-30 04:02:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-30 03:51:29 +0000"
     },
     "done": true
   },
@@ -2956,9 +3007,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2025-08-30 04:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-08-30 03:35:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-08-30 03:49:51 +0000"
     },
     "done": true
   },
@@ -2968,9 +3031,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-30 03:49:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-08-30 04:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-30 03:49:07 +0000"
+    },
+    "done": true
+  },
   "lategamegolems:recipes/misc/lgg_death_process_deactivate": {
     "criteria": {
       "Late Game Golem Death Process Explode": "2025-08-30 03:30:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2025-08-30 04:02:44 +0000"
     },
     "done": true
   },
