@@ -119,10 +119,10 @@
 		#Enables Projectile Damage for Cloud Golem
 		"Allow Cloud Golem Projectile Damage" = true
 		#Enables Boss Music for Cloud Golem
-		"Allow Cloud Golem Boss Music" = true
+		"Allow Cloud Golem Boss Music" = false
 		#Cloud Golem music volume
 		#Range: 0.0 ~ 100.0
-		"Cloud Golem music volume" = 1.0
+		"Cloud Golem music volume" = 0.0
 		#Cloud Golem loses Consciousness after Laser Attack
 		"Allow Cloud Golem Loses Consciousness" = true
 		#Cloud Golem can Charge once more after missing when he is low on HP
